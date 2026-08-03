@@ -1,0 +1,74 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+  repositories {
+    google()
+    mavenCentral()
+  }
+  dependencies {
+    classpath('com.android.tools.build:gradle')
+    classpath('com.facebook.react:react-native-gradle-plugin')
+    classpath('org.jetbrains.kotlin:kotlin-gradle-plugin')
+  }
+}
+
+allprojects {
+  repositories {
+    google()
+    mavenCentral()
+    maven { url 'https://www.jitpack.io' }
+  }
+}
+
+apply plugin: "expo-root-project"
+apply plugin: "com.facebook.react.rootproject"
+
+def ninjaDir = new File(rootProject.projectDir, "tools/ninja")
+def ninjaExe = new File(ninjaDir, "ninja.exe")
+def ninjaPathArg = "-DCMAKE_MAKE_PROGRAM=${ninjaExe.absolutePath.replace('\\', '/')}"
+def objectPathMaxArg = "-DCMAKE_OBJECT_PATH_MAX=1024"
+
+tasks.register("ensureProjectNinja") {
+    onlyIf { !ninjaExe.exists() }
+    doLast {
+        ninjaDir.mkdirs()
+        def zipFile = new File(ninjaDir, "ninja-win.zip")
+        def connection = new URL("https://github.com/ninja-build/ninja/releases/download/v1.12.1/ninja-win.zip").openConnection()
+        connection.connect()
+        zipFile.withOutputStream { out ->
+            connection.inputStream.withCloseable { input -> input.transferTo(out) }
+        }
+        copy {
+            from zipTree(zipFile)
+            into ninjaDir
+        }
+        zipFile.delete()
+    }
+}
+
+def configureAndroidNinja = { androidExt ->
+    def cmakeArgs = androidExt.defaultConfig.externalNativeBuild.cmake.arguments
+    if (!cmakeArgs.contains(ninjaPathArg)) {
+        cmakeArgs.add(ninjaPathArg)
+    }
+    if (!cmakeArgs.contains(objectPathMaxArg)) {
+        cmakeArgs.add(objectPathMaxArg)
+    }
+}
+
+subprojects { subproject ->
+    subproject.plugins.withId("com.android.application") {
+        subproject.extensions
+            .getByType(com.android.build.api.variant.ApplicationAndroidComponentsExtension)
+            .finalizeDsl(configureAndroidNinja)
+    }
+    subproject.plugins.withId("com.android.library") {
+        subproject.extensions
+            .getByType(com.android.build.api.variant.LibraryAndroidComponentsExtension)
+            .finalizeDsl(configureAndroidNinja)
+    }
+
+    subproject.tasks.matching { it.name.contains("CMake") }.configureEach {
+        dependsOn(rootProject.tasks.named("ensureProjectNinja"))
+    }
+}

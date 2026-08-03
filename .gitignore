@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native credentials
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# Android build artifacts
+android/.gradle/
+android/.cxx/
+android/build/
+android/app/build/
+android/local.properties
+android/tools/ninja/
+*.apk
+*.aab
+
+# iOS (regenerate with `npx expo prebuild --platform ios`)
+ios/
+
+# Metro
+.metro-health-check*
+
+# Debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# Test / coverage
+coverage/

@@ -1,0 +1,5312 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-07-04T03:06:27.075Z",
+  "totalProducts": 757,
+  "columns": [
+    "marca",
+    "productoOriginal",
+    "productoEquivalente",
+    "aplicacion"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "marca": "LEYBOLD",
+      "productoOriginal": "ACEITE LUBRICANTE LVO10099-L GRADO N62",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM ISO VG 100",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 2,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ACEITE LUBRICANTE P/MAQUINA DIESEL TIPO TAURUS RR40",
+      "productoEquivalente": "ACEITE BATRAK RADOMISH G-V SAE 40",
+      "aplicacion": "FERROCARRIL"
+    },
+    {
+      "id": 3,
+      "marca": "FYRQUEL",
+      "productoOriginal": "ACEITE FYRQUEL EHC",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 4,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE USO INDUSTRIAL GRADO DE VISCOCIDAD ISO 46",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 46",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 5,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE DTE - OIL HEAVY MEDIUM ISO 68",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM ISO VG 68",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 6,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE DTE - EXTRA HEAVY ISO 150",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM ISO VG 150",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 7,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE MOBIL GEAR 600 XP 150",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 150",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 8,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE MOBIL GEAR 600 XP 220",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 9,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE MOBIL GEAR 600 XP 320",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 320",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 10,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE MOBIL GEAR 600 XP 460",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 460",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 11,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE SAE-40 P/MOTOR DIESEL",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 12,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE TIPO \"C\"",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 13,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE 22 REFRIGERACION",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "REFRGERACIÓN"
+    },
+    {
+      "id": 14,
+      "marca": "ACEMIRE",
+      "productoOriginal": "ACEITE LUBRICACION 300 P/SISTEMA DE REFRIGERACION",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN ISO VG 32",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 15,
+      "marca": "YORK",
+      "productoOriginal": "ACEITE LUBRICANTE TIPO \"S\" #011-00922-000",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 16,
+      "marca": "YORK",
+      "productoOriginal": "ACEITE LUBRICANTE TIPO \"K\" #011-00533-000",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 17,
+      "marca": "YORK",
+      "productoOriginal": "ACEITE LUBRICANTE 13 ALTO DESEMPEÑO P/EQUIPO DE REFRIGERACION",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "REFRGERACIÓN"
+    },
+    {
+      "id": 18,
+      "marca": "YORK",
+      "productoOriginal": "ACEITE LUBRICANTE TIPO \"L\" NP 01100592000R",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 19,
+      "marca": "YORK",
+      "productoOriginal": "ACEITE LUBRICANTE PARA COMPRESOR TIPO \"V\"",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 20,
+      "marca": "YORK",
+      "productoOriginal": "ACEITE LUBRICANTE P/COMPRESOR 011-00949-0",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 21,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE SINTETICO POLIOLESTER ISO 32 P/REFRIGERANTES HFC",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 22,
+      "marca": "ACEMIRE",
+      "productoOriginal": "ACEITE ANTICONGELANTE 150 P/AIRE ACONDICIONADO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "AIRE ACONDICIONADO"
+    },
+    {
+      "id": 23,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 24,
+      "marca": "CHESTERTON",
+      "productoOriginal": "ACEITE PENETRANTE RUSTSOLVO 706",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 25,
+      "marca": "FUCHS",
+      "productoOriginal": "ACEITE SILICONA TIPO 710",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 26,
+      "marca": "FLUKE",
+      "productoOriginal": "ACEITE SILICONA 5010 TIPO \"200.05\"",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 27,
+      "marca": "FLUKE",
+      "productoOriginal": "ACEITE SILICONA 5013 TIPO \"200.20\"",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 28,
+      "marca": "SAF-T-LOK",
+      "productoOriginal": "LUBRICANTE DE ROSCAS TIPO \"NSN 165\"",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 29,
+      "marca": "ECOLUBE",
+      "productoOriginal": "LUBRICANTE TIPO GRAFEX GTL",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 30,
+      "marca": "ECOLUBE",
+      "productoOriginal": "LUBRICANTE GRAFOIL GTS - TUBO 4 ONZ",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 31,
+      "marca": "WD-40",
+      "productoOriginal": "LUBRICANTE SILICON RESISTENTE AL AGUA WD-40",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 32,
+      "marca": "BOSTIK",
+      "productoOriginal": "LUBRICANTE ANTIADHERENTE NSBT 16",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 33,
+      "marca": "BONDERITE",
+      "productoOriginal": "FLUIDO LUBRICANTE 156 P/REFORZAMIENTO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 34,
+      "marca": "CHESTERTON",
+      "productoOriginal": "ANTIADHERENTE BASE NIQUEL GRADO NUCLEAR, LUBRICANTE 772",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 35,
+      "marca": "MOBIL",
+      "productoOriginal": "GRASA LUBRICANTE XHP 223",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP 3",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 36,
+      "marca": "MOBIL",
+      "productoOriginal": "GRASA COMPLEJO LITIO XHP222 ESPESO AZUL",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 37,
+      "marca": "CHESTERTON",
+      "productoOriginal": "GRASA LUBRICANTE 615 ALTA TEMPERATURA NLGI-GDO 1",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 38,
+      "marca": "MOBIL",
+      "productoOriginal": "GRASA PARA LUBRICACION NO. 33 COMP DE LITIO (MOV LONG LIFE)",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 39,
+      "marca": "MOLYKOTE",
+      "productoOriginal": "GRASA SILICON 55 O-RING",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 40,
+      "marca": "MOLYKOTE",
+      "productoOriginal": "GRASA SILICON ALTO VACIO TUBO 150GRS",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 41,
+      "marca": "MOLYKOTE",
+      "productoOriginal": "GRASA SILICON NO. 4 DIELECTRICA",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 42,
+      "marca": "MOLYKOTE",
+      "productoOriginal": "GRASA SILICON 111 TUBO 150GRS",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 43,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA LUBRICANTE COMPUESTO GRADO FINO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 44,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA LUBRICANTE COMPUESTO GRADO GRUESO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 45,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA LUBRICANTE COMPUESTO GRADO MEDIANO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 46,
+      "marca": "PARKER",
+      "productoOriginal": "GRASA BASE SILICÓN TUBO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 47,
+      "marca": "MOBIL",
+      "productoOriginal": "GRASA ANTIDESGASTE 28 PRESENTACION CUBETA 16K",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 48,
+      "marca": "DOWSIL",
+      "productoOriginal": "GRASA LUBRICANTE 732 BLANCO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 49,
+      "marca": "MOBIL",
+      "productoOriginal": "GRASA LUBRICANTE POLYREX EM",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 50,
+      "marca": "SUPERLUBE",
+      "productoOriginal": "GRASA DE SILICÓN 93003 DIELECTRICO PARA JUNTAS TORICAS",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 51,
+      "marca": "SUPERLUBE",
+      "productoOriginal": "LUBRICANTE GR NUCLEAR (SUPER LUBE)",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 52,
+      "marca": "VENTAS",
+      "productoOriginal": "FLUIDO LUBRICANTE",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 53,
+      "marca": "DOWSIL",
+      "productoOriginal": "LUBRICANTE SILICON 175A8251P002 PARA MOTOR, LUBRICANTE DIELECTRICO (DOWSIL)",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 54,
+      "marca": "CHEMPOINT",
+      "productoOriginal": "LUBRICANTE I 25 RA/IPA NP 2Z18723225",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 55,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE LUBRICANTE 427 PARA COMPRESOR RARUS",
+      "productoEquivalente": "ACEITE BATRAK KOROB ISO VG 100",
+      "aplicacion": "COMPRESORES DE AIRE, MINERAL"
+    },
+    {
+      "id": 56,
+      "marca": "INGERSOLL RAND",
+      "productoOriginal": "ACEITE LUBRICANTE TECHTROL GOLD",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 57,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE LUBRICANTE DTE 10 EXCEL 46",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 58,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA LUBRICANTE",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 59,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE MOBIL SUPER CILINDER 600W",
+      "productoEquivalente": "ACEITE BATRAK ODESSA ISO VG 460",
+      "aplicacion": "COMPOUND"
+    },
+    {
+      "id": 60,
+      "marca": "EMKARATE",
+      "productoOriginal": "LUBRICANTE POLIOLESTER SINTETICO RL32H",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 61,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE SHC 624",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 62,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE DTE 24 MOBIL",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 32",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 63,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE AISLANTE PARA TRANSFORMADOR 4O KV DE RIGIDEZ DIELECTRICA",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 64,
+      "marca": "CASTROL",
+      "productoOriginal": "ACEITE PRO-SPEC MULTIGRADO 15W40",
+      "productoEquivalente": "ACEITE RUN-PWR DSL 100% SINTÉTICO SAE 5W-40",
+      "aplicacion": "DIÉSEL SERVICIO LIGERO"
+    },
+    {
+      "id": 65,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE PARA ENGRANES ISO 220",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 66,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE SINTETICO EP 220 GRADO INDUSTRIAL",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 67,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE HIDRO-CARBURO SINTETIZADO SHC 680",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX ISO VG 680",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 68,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE HEAVY MEDIUM",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM ISO VG 68",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 69,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE EP 1000 GRADO INDUSTRIAL",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 1000",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 70,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE HIDRAULICO AW 68 GRADO INDUSTRIAL",
+      "productoEquivalente": "ACEITE BATRAK DESNA PREMIUM HVI ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 71,
+      "marca": "LUVROL",
+      "productoOriginal": "GRASA SINTETICA PARA ALTA TEMP",
+      "productoEquivalente": "GRASA BATRAK OLYKA SYNTHEX 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP, SINTÉTICA"
+    },
+    {
+      "id": 72,
+      "marca": "MOBIL",
+      "productoOriginal": "GRASA COMPLEJO LITIO XHP222 ESPESO AZUL",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 73,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE FLUIDO HIDRAULICO HFD 46",
+      "productoEquivalente": "ACEITE BATRAK DESNOVE",
+      "aplicacion": "IGNÍFUGO"
+    },
+    {
+      "id": 74,
+      "marca": "OSO",
+      "productoOriginal": "GRASA SELLANTE 1143 HIDROCARBURO GASEOSO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 75,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ACEITE HIDRAULICO MH-300",
+      "productoEquivalente": "ACEITE HIDRÁULICO ANITDESGASTE AW ISO VG 68 ACEITE HIDRÁULICO H-300 ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 76,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE PARA TURBINA 32",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SUPER PREMIUM ISO VG 32",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 77,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE ISO-46",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SUPER PREMIUM ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 78,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE ISO 320",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX ISO VG 320",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 79,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ACEITE HIDRAULICO MH 68",
+      "productoEquivalente": "ACEITE HIDRÁULICO ANITDESGASTE AW ISO VG 68 ACEITE HIDRÁULICO H-300 ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 80,
+      "marca": "ATLAS COPCO",
+      "productoOriginal": "ACEITE ROTO Z C/ADITIVOS",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX ISO VG 68",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 81,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE TURBINA VAPOR ISO 46",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SUPER PREMIUM ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 82,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE SINTETICO EP 320 GRADO INDSUTRIAL",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX ISO VG 320",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 83,
+      "marca": "SKF",
+      "productoOriginal": "GRASA EP1 RODAMIENTOS DE ALTA VELOCIDAD",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 84,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE MOBIL OIL DTE 24 ISO 32.",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 32",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 85,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE HIDRAULICO AW 46 GRADO INDUSTRIAL",
+      "productoEquivalente": "ACEITE BATRAK DESNA PREMIUM HVI ISO VG 46",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 86,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE LUBRICANTE DTE EXTRA-HEAVY",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM ISO VG 150",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 87,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE PARA MOTOR A DIESEL SAE 40",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 88,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE MINERAL TERMICO BAJA VISCOSIDAD",
+      "productoEquivalente": "ACEITE BATRAK SOLCOV PREMIUM",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 89,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE LUBRICANTE SHC 634",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX ISO VG 460",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 90,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA LUBRICANTE 40NLGI ALTA TEMPERATURA",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 91,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE DTE OIL MEDIUM ISO 46",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 92,
+      "marca": "ATLAS COPCO",
+      "productoOriginal": "ACEITE COMPRESOR ROTOZ NP2908850101",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX ISO VG 46",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 93,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA LUBRICANTE",
+      "productoEquivalente": "GRASA BALIT 2",
+      "aplicacion": "LITIO SIMPLE"
+    },
+    {
+      "id": 94,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA PARA ALTA TEMPERATURA",
+      "productoEquivalente": "GRASA BATRAK OLYKA 3",
+      "aplicacion": "COMPLEJO DE LITIO"
+    },
+    {
+      "id": 95,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA ALTA TEMP GRADO NLGI",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 96,
+      "marca": "VENTAS",
+      "productoOriginal": "GRASA INDUSTR GRADO NLGI 2 LITIO 16 KG",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 97,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE SINTÉTICO PARA COMPRESOR DE AIRE",
+      "productoEquivalente": "ACEITE BATRAK KORSUN SYNTHEX ISO VG 55",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (GLICOL-ÉSTER)"
+    },
+    {
+      "id": 98,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE HIDRÁULICO GRADO ISO 68",
+      "productoEquivalente": "ACEITE HIDRÁULICO ANITDESGASTE AW ISO VG 68 ACEITE HIDRÁULICO H-300 ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 99,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE PARA TURBINA HP 46",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SUPER PREMIUM ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 100,
+      "marca": "VENTAS",
+      "productoOriginal": "ACEITE LUBRICANTE ISO 46 ASTM D 445",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SUPER PREMIUM ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 101,
+      "marca": "MOBIL",
+      "productoOriginal": "GRASA SINTETICA LUBRICANTE P/RODAMIENTO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 102,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "GRASA LUB LITIO P/BALEROS Y MECAN EP-2",
+      "productoEquivalente": "GRASA BALIT PLUS 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 103,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE HIDRO-CARBURO SINTETIZADO SHC 320",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 320",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 104,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE SINTETICO SH 254 UME5",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "AERONÁUTICA"
+    },
+    {
+      "id": 105,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DTE",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 106,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DTE ULTRA",
+      "productoEquivalente": "ACEITE BATRAK DESNA PREMIUM HVI",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 107,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL PYROGARD 53 (BASE ÉSTER)",
+      "productoEquivalente": "NO COTIZO // ACEITE DESNOVE",
+      "aplicacion": "IGNÍFUGO"
+    },
+    {
+      "id": 108,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL SHC 500",
+      "productoEquivalente": "ACEITE BATRAK DESNA SYNTHEX",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 109,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILGEAR 600 XP",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 110,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL SHC GEAR",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 111,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL CYLINDER OIL",
+      "productoEquivalente": "ACEITE BATRAK ODESSA",
+      "aplicacion": "COMPOUND"
+    },
+    {
+      "id": 112,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DTE 700",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 113,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DTE 800",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SÚPER PREMIUM",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 114,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL RARUS 400",
+      "productoEquivalente": "ACEITE BATRAK KOROB",
+      "aplicacion": "COMPRESORES DE AIRE, MINERAL"
+    },
+    {
+      "id": 115,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL RARUS SHC 1020",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 116,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL RARUS 800",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 117,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILCUT",
+      "productoEquivalente": "ACEITE BATRAK HORLIKA/KHERSON/KORLEVO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 118,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILMET 400 SERIES",
+      "productoEquivalente": "ACEITE BATRAK NOVE PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 119,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILMET 400 SERIES",
+      "productoEquivalente": "ACEITE BATRAK KUTY PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 120,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL ALMO 500 SERIES",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 121,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILTHERM 605",
+      "productoEquivalente": "ACEITE BATRAK SOLCOV PREMIUM",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 122,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL ZERICE S",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 123,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL CENTAUR XHP 460 SERIES",
+      "productoEquivalente": "GRASA BATRAK SUDAK EP",
+      "aplicacion": "SULFONATO DE CALCIO, EP"
+    },
+    {
+      "id": 124,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILGREASE XHP 222",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 125,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILGREASE XHP 222 SPECIAL",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "COMPLEJO DE LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 126,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILUX EP",
+      "productoEquivalente": "GRASA BATRAK BALTA EP // GRASA BALIT PLUS",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 127,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILUX EP 111",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP",
+      "aplicacion": "LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 128,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL TELLUS S2 M",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 129,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL TELLUS S2 VX",
+      "productoEquivalente": "ACEITE BATRAK DESNA PREMIUM HVI",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 130,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL NATURELLE S2 HYD FL (BASE ÉSTER) / SHELL TURBO S5 DR (ÉSTER FOSFATADO)",
+      "productoEquivalente": "ACEITE BATRAK DESNOVE",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 131,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL TELLUS S4 ME",
+      "productoEquivalente": "ACEITE BATRAK DESNA SYNTHEX",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 132,
+      "marca": "SHELL",
+      "productoOriginal": "OMALA S2 GX",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 133,
+      "marca": "SHELL",
+      "productoOriginal": "OMALA S2 GXV",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 134,
+      "marca": "SHELL",
+      "productoOriginal": "OMALA S4 WE (PAG)",
+      "productoEquivalente": "ACEITE BATRAK ODESSA",
+      "aplicacion": "COMPOUND"
+    },
+    {
+      "id": 135,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL TURBO T",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 136,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL TURBO S4 GX",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SÚPER PREMIUM",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 137,
+      "marca": "SHELL",
+      "productoOriginal": "CORENA S3 R / CORENA S2 P",
+      "productoEquivalente": "ACEITE BATRAK KOROB",
+      "aplicacion": "COMPRESORES DE AIRE, MINERAL"
+    },
+    {
+      "id": 138,
+      "marca": "SHELL",
+      "productoOriginal": "CORENA AS",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 139,
+      "marca": "SHELL",
+      "productoOriginal": "CORENA AP",
+      "productoEquivalente": "ACEITE BATRAK KOBEL SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (ÉSTER)"
+    },
+    {
+      "id": 140,
+      "marca": "SHELL",
+      "productoOriginal": "CORENA PGE",
+      "productoEquivalente": "ACEITE BATRAK KORSUN SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (GLICOL-ÉSTER)"
+    },
+    {
+      "id": 141,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL DROMUS OIL",
+      "productoEquivalente": "ACEITE BATRAK HORLIKA/KHERSON/KORLEVO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 142,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL GARIA OIL",
+      "productoEquivalente": "ACEITE BATRAK NOVE PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 143,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL MACRON OIL 32",
+      "productoEquivalente": "ACEITE BATRAK KUTY PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 144,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL AIR TOOL S2 A",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 145,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL HEAT TRANSFER OIL S2 S",
+      "productoEquivalente": "ACEITE BATRAK SOLCOV PREMIUM",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 146,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL REFRIGERATION OIL S4 FR-V",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 147,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL GADUS S3 V220C",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 148,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL GADUS S3 V460D",
+      "productoEquivalente": "GRASA BATRAK OLYKA MOLY EP",
+      "aplicacion": "COMPLEJO DE LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 149,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL GADUS S2 V220 (ANTERIORMENTE ALVANIA EP)",
+      "productoEquivalente": "GRASA BATRAK BALTA EP // GRASA BALIT PLUS",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 150,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL GADUS S2 V220 AD (LITIO-CALCIO)",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP",
+      "aplicacion": "LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 151,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "HIDRÁULICO MH",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 152,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "AKRON HYDRUALIC XLF",
+      "productoEquivalente": "ACEITE BATRAK DESNA PREMIUM HVI",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 153,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "AKRON HYDRAULIC FR",
+      "productoEquivalente": "ACEITE BATRAK DESNOVE",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 154,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "AKRON VEKTOR S-TURBINE",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 155,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ENGRANES GENERALES/ INDUSTRIAL GEAR P",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 156,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "AKRON VEKTOR S-GEAR EP",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 157,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "AKRON TURBINE OIL XLP",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SÚPER PREMIUM",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 158,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "COMPRESORES DE AIRE",
+      "productoEquivalente": "ACEITE BATRAK KOROB",
+      "aplicacion": "COMPRESORES DE AIRE, MINERAL"
+    },
+    {
+      "id": 159,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "AKRON VEKTOR S-COM P",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 160,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "AKRON VEKTOR S-COM E",
+      "productoEquivalente": "ACEITE BATRAK KOBEL SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (ÉSTER)"
+    },
+    {
+      "id": 161,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "SOLUBLE ESPECIAL NO. 4",
+      "productoEquivalente": "ACEITE BATRAK HORLIKA/KHERSON/KORLEVO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 162,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CORTACERO A 5090",
+      "productoEquivalente": "ACEITE BATRAK NOVE PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 163,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CORTE AB",
+      "productoEquivalente": "ACEITE BATRAK KUTY PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 164,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "NEUMOACEITE 150",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 165,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "TERM 300",
+      "productoEquivalente": "ACEITE BATRAK SOLCOV PREMIUM",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 166,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "REFRIGERACIÓN",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 167,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "AKRON GREASE ULTRA SC XP",
+      "productoEquivalente": "GRASA BATRAK SUDAK EP",
+      "aplicacion": "SULFONATO DE CALCIO, EP"
+    },
+    {
+      "id": 168,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "GRASA LITIO EP FR",
+      "productoEquivalente": "GRASA BATRAK BALTA EP",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 169,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "MULTILITIO MOLLY",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP",
+      "aplicacion": "LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 170,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "COTTON PICKER SPECIAL",
+      "productoEquivalente": "GRASA BATRAK HOLUBA",
+      "aplicacion": "GRASA PARA PIZCADORA"
+    },
+    {
+      "id": 171,
+      "marca": "TOTAL",
+      "productoOriginal": "AZOLLA ZS",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 172,
+      "marca": "TOTAL",
+      "productoOriginal": "EQUIVIS ZS",
+      "productoEquivalente": "ACEITE BATRAK DESNA PREMIUM HVI",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 173,
+      "marca": "TOTAL",
+      "productoOriginal": "HYDRANSAFE FR EHC (BASE ÉSTER)",
+      "productoEquivalente": "ACEITE BATRAK DESNOVE",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 174,
+      "marca": "TOTAL",
+      "productoOriginal": "CARTER EP",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 175,
+      "marca": "TOTAL",
+      "productoOriginal": "CARTER VP",
+      "productoEquivalente": "ACEITE BATRAK ODESSA",
+      "aplicacion": "COMPOUND"
+    },
+    {
+      "id": 176,
+      "marca": "TOTAL",
+      "productoOriginal": "PRESLIA GT",
+      "productoEquivalente": "ACEITE BATRAK KRASNE SÚPER PREMIUM",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 177,
+      "marca": "TOTAL",
+      "productoOriginal": "DACNIS LD",
+      "productoEquivalente": "ACEITE BATRAK KOROB",
+      "aplicacion": "COMPRESORES DE AIRE, MINERAL"
+    },
+    {
+      "id": 178,
+      "marca": "TOTAL",
+      "productoOriginal": "DACNIS SH",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 179,
+      "marca": "TOTAL",
+      "productoOriginal": "DACNIS SE",
+      "productoEquivalente": "ACEITE BATRAK KOBEL SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (ÉSTER)"
+    },
+    {
+      "id": 180,
+      "marca": "TOTAL",
+      "productoOriginal": "LACTUCA MMS",
+      "productoEquivalente": "ACEITE BATRAK HORLIKA/KHERSON/KORLEVO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 181,
+      "marca": "TOTAL",
+      "productoOriginal": "VALONA M 2133",
+      "productoEquivalente": "ACEITE BATRAK NOVE PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 182,
+      "marca": "TOTAL",
+      "productoOriginal": "SCILIA MMS 4046",
+      "productoEquivalente": "ACEITE BATRAK KUTY PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 183,
+      "marca": "TOTAL",
+      "productoOriginal": "PNEUMA M",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 184,
+      "marca": "TOTAL",
+      "productoOriginal": "SERIOLA QA",
+      "productoEquivalente": "ACEITE BATRAK SOLCOV PREMIUM",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 185,
+      "marca": "TOTAL",
+      "productoOriginal": "LUNARIA SK",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 186,
+      "marca": "TOTAL",
+      "productoOriginal": "CERAN XM",
+      "productoEquivalente": "GRASA BATRAK SUDAK EP",
+      "aplicacion": "SULFONATO DE CALCIO, EP"
+    },
+    {
+      "id": 187,
+      "marca": "TOTAL",
+      "productoOriginal": "MULTIS COMPLEX HV 2",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 188,
+      "marca": "TOTAL",
+      "productoOriginal": "MULTIS MEP",
+      "productoEquivalente": "GRASA BATRAK BALTA EP",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 189,
+      "marca": "TOTAL",
+      "productoOriginal": "MULTIS MS",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP",
+      "aplicacion": "LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 190,
+      "marca": "TOTAL",
+      "productoOriginal": "COTTEXA",
+      "productoEquivalente": "GRASA BATRAK HOLUBA",
+      "aplicacion": "GRASA PARA PIZCADORA"
+    },
+    {
+      "id": 191,
+      "marca": "CHEVRON",
+      "productoOriginal": "HYDRAULIC OIL AW",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 192,
+      "marca": "CHEVRON",
+      "productoOriginal": "RANDO HDZ",
+      "productoEquivalente": "ACEITE BATRAK DESNA PREMIUM HVI",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 193,
+      "marca": "CHEVRON",
+      "productoOriginal": "CLARITY SYNTHETIC HYDRAULIC OIL AW",
+      "productoEquivalente": "ACEITE BATRAK DESNA SYNTHEX",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 194,
+      "marca": "CHEVRON",
+      "productoOriginal": "MEROPA",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 195,
+      "marca": "CHEVRON",
+      "productoOriginal": "PINNACLE EP",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 196,
+      "marca": "CHEVRON",
+      "productoOriginal": "GST OIL",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 197,
+      "marca": "CHEVRON",
+      "productoOriginal": "COMPRESSOR OIL",
+      "productoEquivalente": "ACEITE BATRAK KOROB",
+      "aplicacion": "COMPRESORES DE AIRE, MINERAL"
+    },
+    {
+      "id": 198,
+      "marca": "CHEVRON",
+      "productoOriginal": "CETUS PAO",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 199,
+      "marca": "CHEVRON",
+      "productoOriginal": "CETUS DE",
+      "productoEquivalente": "ACEITE BATRAK KOBEL SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (ÉSTER)"
+    },
+    {
+      "id": 200,
+      "marca": "CHEVRON",
+      "productoOriginal": "CHEVRON SOLUBLE OIL B",
+      "productoEquivalente": "ACEITE BATRAK HORLIKA/KHERSON/KORLEVO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 201,
+      "marca": "CHEVRON",
+      "productoOriginal": "BRIGHT-CUT AH METALWORKING FLUID",
+      "productoEquivalente": "ACEITE BATRAK NOVE PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 202,
+      "marca": "CHEVRON",
+      "productoOriginal": "ARIES",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 203,
+      "marca": "CHEVRON",
+      "productoOriginal": "HEAT TRANSFER",
+      "productoEquivalente": "ACEITE BATRAK SOLCOV PREMIUM",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 204,
+      "marca": "CHEVRON",
+      "productoOriginal": "CAPELLA WF(NAF)",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 205,
+      "marca": "CHEVRON",
+      "productoOriginal": "STARPLEX EP",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 206,
+      "marca": "CHEVRON",
+      "productoOriginal": "STARPLEX HD M3",
+      "productoEquivalente": "GRASA BATRAK OLYKA MOLY EP",
+      "aplicacion": "COMPLEJO DE LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 207,
+      "marca": "CHEVRON",
+      "productoOriginal": "STARPLEX HD M5",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "GRASA LUBRICANTE, 5% DE MOLIBDENO"
+    },
+    {
+      "id": 208,
+      "marca": "CHEVRON",
+      "productoOriginal": "MULTIFAK EP",
+      "productoEquivalente": "GRASA BATRAK BALTA EP",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 209,
+      "marca": "CHEVRON",
+      "productoOriginal": "CHEVRON MOLY GREASE EP",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP",
+      "aplicacion": "LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 210,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE MOBIL 1",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 211,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE MOBIL SUPER TRC-PRO",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 212,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DELVAC ULTRA PROTECCIÓN SUPERIOR",
+      "productoEquivalente": "ACEITE VOLTRO AMERICANFLEET",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 213,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DELVAC MODERN SÚPER PROTECCIÓN",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 214,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DELVAC MODERN DEFENSA EXTREMA",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 215,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DELVAC SYNTHETIC GEAR OIL",
+      "productoEquivalente": "ACEITE VOLTRO GEAR API GL-5",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 216,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL MULTI-VEHICLE ATF",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 217,
+      "marca": "MOBIL",
+      "productoOriginal": "DELVAC MODERN COOLANT 50/50 EXTENDED LIFE",
+      "productoEquivalente": "REFRIGERANTE COOLANT",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 218,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL BRAKE FLUID DOT 3",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 3 (DOT 3)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 219,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL BRAKE FLUID DOT 4",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 4 (DOT 4)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 220,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILGREASE XHP",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 221,
+      "marca": "SHELL",
+      "productoOriginal": "RIMULA R5 LE",
+      "productoEquivalente": "ACEITE VOLTRO AMERICANFLEET",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 222,
+      "marca": "SHELL",
+      "productoOriginal": "RIMULA R4 L",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 223,
+      "marca": "SHELL",
+      "productoOriginal": "RIMULA R4",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 224,
+      "marca": "SHELL",
+      "productoOriginal": "SPIRAX S3 AX",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 225,
+      "marca": "SHELL",
+      "productoOriginal": "SPIRAX S6 AXME",
+      "productoEquivalente": "ACEITE GEARTECH EUROFLEET",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 226,
+      "marca": "SHELL",
+      "productoOriginal": "SPIRAX S4 ATF HDX",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 227,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "FLEET COOLANT EXL",
+      "productoEquivalente": "REFRIGERANTE COOLANT",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 228,
+      "marca": "SHELL",
+      "productoOriginal": "BRAKE AND CLUTCH FLUID DOT 3",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 3 (DOT 3)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 229,
+      "marca": "SHELL",
+      "productoOriginal": "BRAKE AND CLUTCH FLUID DOT 4",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 4 (DOT 4)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 230,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL GADUS S2 V220 GREASE",
+      "productoEquivalente": "GRASA BALIT PLUS 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 231,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL GADUS S3 V220C GREASE",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 232,
+      "marca": "RALOY",
+      "productoOriginal": "ACEITE SYN-TEC PLATINUM",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 233,
+      "marca": "RALOY",
+      "productoOriginal": "RALOY IMPROVED EXTRAPERFORMANCE 100% SINTÉTICO",
+      "productoEquivalente": "ACEITE VOLTRO AMERICANFLEET",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 234,
+      "marca": "RALOY",
+      "productoOriginal": "RALOY IMPROVED EXTRAPERFORMANCE",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 235,
+      "marca": "RALOY",
+      "productoOriginal": "RALOY DIESEL POWER",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 236,
+      "marca": "RALOY",
+      "productoOriginal": "TRANSMISIÓN EP API GL-5",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 237,
+      "marca": "RALOY",
+      "productoOriginal": "ANTIFREEZE HD-21",
+      "productoEquivalente": "REFRIGERANTE COOLANT",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 238,
+      "marca": "RALOY",
+      "productoOriginal": "LÍQUIDO DE FRENOS DOT 3",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 3 (DOT 3)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 239,
+      "marca": "RALOY",
+      "productoOriginal": "LÍQUIDO DE FRENOS DOT 4",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 4 (DOT 4)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 240,
+      "marca": "RALOY",
+      "productoOriginal": "GRASA RALITIO EP NO. 2",
+      "productoEquivalente": "GRASA BALIT PLUS 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 241,
+      "marca": "RALOY",
+      "productoOriginal": "GRASA RALITIO COMPLEX EP NO.2",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 242,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ACEITE FULL SYNTHETIC PRO (5W-30; 10W-30)",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ SAE 5W-30",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 243,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ACEITE XTR-PRO (5W-30; 10W-30; 15W-40; 20W-50)",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 244,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ACEITE DURA TRACK MG",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 245,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SUPER SERIES III PLUS",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 246,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SUPER QUADROLUBE GEAR OIL API GL-5",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 247,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MULTI / ATF",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 248,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ANTICONGELANTE CONCENTRACIÓN ÓPTIMA",
+      "productoEquivalente": "REFRIGERANTE COOLANT",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 249,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "LÍQUIDO PARA FRENOS DOT 3",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 3 (DOT 3)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 250,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "GRASA MULTIPURPOSE EP‐2",
+      "productoEquivalente": "GRASA BALIT PLUS 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 251,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "GRASA MULTIPURPOSE COMPLEJO EP-2",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 252,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON PREMIUM PRO (5W-30)",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ SAE 5W-30",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 253,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON PREMIUM SQ",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 254,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON ULTRA CLEAR PLUS",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 255,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON CUSTOM",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 256,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON SUPER GEAR GL-5",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 257,
+      "marca": "AKRON",
+      "productoOriginal": "UNIVERSAL ATF",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 258,
+      "marca": "AKRON",
+      "productoOriginal": "ANTICONGELANTE ROSA CONCENTRADO",
+      "productoEquivalente": "REFRIGERANTE COOLANT",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 259,
+      "marca": "AKRON",
+      "productoOriginal": "BRAKE FLUID DOT 3",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 3 (DOT 3)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 260,
+      "marca": "AKRON",
+      "productoOriginal": "BRAKE FLUID DOT 4",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 4 (DOT 4)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 261,
+      "marca": "AKRON",
+      "productoOriginal": "FAKTOR III",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP",
+      "aplicacion": "LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 262,
+      "marca": "AKRON",
+      "productoOriginal": "LITHIUMPLEX XP2",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 263,
+      "marca": "VALVOLINE",
+      "productoOriginal": "PREMIUM PROTECTION FULL SYNTHETIC (5W-30; 10W-30)",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ SAE 5W-30",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 264,
+      "marca": "VALVOLINE",
+      "productoOriginal": "PREMIUM PROTECTION",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ (15W-40; 20W-50)",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 265,
+      "marca": "VALVOLINE",
+      "productoOriginal": "PREMIUM BLUE EXTREME DIESEL ENGINE OIL",
+      "productoEquivalente": "ACEITE VOLTRO AMERICANFLEET",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 266,
+      "marca": "VALVOLINE",
+      "productoOriginal": "ALL-FLEET PLUS™ E900 ENGINE OIL",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 267,
+      "marca": "VALVOLINE",
+      "productoOriginal": "ALL-FLEET E700 DIESEL ENGINE OIL",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 268,
+      "marca": "VALVOLINE",
+      "productoOriginal": "VALVOLINE HD SYNTHETIC TRANSMISSION FLUID",
+      "productoEquivalente": "ACEITE VOLTRO GEAR API GL-5",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 269,
+      "marca": "VALVOLINE",
+      "productoOriginal": "TRANSFER CASE FLUID",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 270,
+      "marca": "VALVOLINE",
+      "productoOriginal": "HT-12 ANTIFREEZE COOLANT",
+      "productoEquivalente": "REFRIGERANTE COOLANT",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 271,
+      "marca": "VALVOLINE",
+      "productoOriginal": "BRAKE & CLUTCH FLUID DOT 3",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 3 (DOT 3)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 272,
+      "marca": "VALVOLINE",
+      "productoOriginal": "BRAKE & CLUTCH FLUID DOT 4",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 4 (DOT 4)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 273,
+      "marca": "VALVOLINE",
+      "productoOriginal": "GRASA DE LITIO VALVOLINE EP 2",
+      "productoEquivalente": "GRASA BALIT PLUS 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 274,
+      "marca": "VALVOLINE",
+      "productoOriginal": "GRASA DE COMPLEJO DE LITIO EP 2",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 275,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE PRO-DS FULL SYNTHETIC MOTOR OIL",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ (5W-40, 5W-30)",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 276,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE MOTOR OIL",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 277,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO 600 ADF",
+      "productoEquivalente": "ACEITE VOLTRO AMERICANFLEET",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 278,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO 400 SDE",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 279,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO GOLD ULTRA X",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 280,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE XTENDED LIFE ANTIFREEZE/COOLANT",
+      "productoEquivalente": "REFRIGERANTE COOLANT",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 281,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLIN BRAKE FLUID DOT 3",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 3 (DOT 3)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 282,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE BRAKE FLUID DOT 4",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS LF 4 (DOT 4)",
+      "aplicacion": "SISTEMA DE FRENOS"
+    },
+    {
+      "id": 283,
+      "marca": "CHEVRON",
+      "productoOriginal": "ULTRA-DUTY HD",
+      "productoEquivalente": "GRASA BALIT PLUS 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 284,
+      "marca": "SHELL",
+      "productoOriginal": "ACEITE TONNA OIL T",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 285,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "ACEITE DE MOTOR DIESEL 15W-40 CI4-PLUS",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 286,
+      "marca": "ACEMIRE",
+      "productoOriginal": "ACEITE 300 MARCA ACEMIRE",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN ISO VG 68",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 287,
+      "marca": "MOBIL",
+      "productoOriginal": "ACEITE 15W40 MOBILDELVAC 1300 SUPER PARA MOTOR DIESEL APICJ-4",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 288,
+      "marca": "ATLAS COPCO",
+      "productoOriginal": "ACEITE ROTO Z",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX ISO VG 68",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 289,
+      "marca": "TEXAS REFINERY",
+      "productoOriginal": "ACEITE SAE 85W140 MARCA TRC",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 85W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 290,
+      "marca": "STIHL",
+      "productoOriginal": "ACEITE PARA MOTOR DE 2 TIEMPOS ENFRIADOS POR AIRE.",
+      "productoEquivalente": "ACEITE MOTONIC 2T API TC",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 291,
+      "marca": "GARDNER DENVER AEON PD",
+      "productoOriginal": "ACEITE SINTETICO",
+      "productoEquivalente": "ACEITE BATRAK PARHOVE SYNTHEX",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 292,
+      "marca": "OMEGA",
+      "productoOriginal": "ACEITE DE TRANSMISION SAE 90 ACERO-BRONCE",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 293,
+      "marca": "INGERSOLL RAND",
+      "productoOriginal": "ACEITE REFRIGERANTE ULTRA COOLANT",
+      "productoEquivalente": "ACEITE BATRAK KORSUN SYNTHEX ISO VG 55",
+      "aplicacion": "COMPRESOR DE AIRE, SINTÉTICO (GLICOL-ÉSTER)"
+    },
+    {
+      "id": 294,
+      "marca": "SHELL",
+      "productoOriginal": "ACEITE 220 MARCA SHELL PARA REDUCTOR",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 295,
+      "marca": "NEW LIFE",
+      "productoOriginal": "GRASA SYNTHE-K 700",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 296,
+      "marca": "SHELL",
+      "productoOriginal": "GRASA SUPERGREASE MARCA SHELL NP EP2",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 297,
+      "marca": "TRC",
+      "productoOriginal": "GRASA PARAGON 3000 GRADO 2",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "GRADO ALIMENTICIO"
+    },
+    {
+      "id": 298,
+      "marca": "INTERLUB",
+      "productoOriginal": "GRASA DE GRADO ALIMENTICIO ALIPLEX HR2",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "GRADO ALIMENTICIO"
+    },
+    {
+      "id": 299,
+      "marca": "CUMMINS",
+      "productoOriginal": "ACEITE CUMMINS CES 20076",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 300,
+      "marca": "INTERFLON",
+      "productoOriginal": "ACEITE FOOD LUBE HT",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 301,
+      "marca": "PERMATEX",
+      "productoOriginal": "CARTUCHO DE GRASA H1 SF10",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 302,
+      "marca": "STIHL",
+      "productoOriginal": "ACEITE PARA MOTOR DE 2 TIEMPOS",
+      "productoEquivalente": "ACEITE MOTONIC 2T API TC",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 303,
+      "marca": "OMEGA",
+      "productoOriginal": "ACEITE SINTETICO GRADO ALIMENTICIO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "GRADO ALIMENTICIO"
+    },
+    {
+      "id": 304,
+      "marca": "PETRONAS",
+      "productoOriginal": "GRASA DE COMPLEJO DE ALUMINIO",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 305,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ENGRANES COMPUESTOS 3A (ISO VG 220)",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 306,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "PEMTAC NO.4",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 200",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 307,
+      "marca": "LTH",
+      "productoOriginal": "ACEITE PARA TRACTORES 303",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 308,
+      "marca": "CASE NEW-HOLLAND",
+      "productoOriginal": "MULTIGRADE 134",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 309,
+      "marca": "VENTAS",
+      "productoOriginal": "ADITIVO UREA P/REDUCCIÓN DE GASES",
+      "productoEquivalente": "ROSHFRANS PURE SKY",
+      "aplicacion": "UREA AUTOMOTRIZ"
+    },
+    {
+      "id": 310,
+      "marca": "CATERPILLAR",
+      "productoOriginal": "ACEITE TO-4 SAE 10W",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 10W",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 311,
+      "marca": "CATERPILLAR",
+      "productoOriginal": "ACEITE TO-4 SAE 30",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 30",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 312,
+      "marca": "CATERPILLAR",
+      "productoOriginal": "ACEITE TO-4 SAE 50",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 50",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 313,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ACEITE HIDRÁULICO MH300 MAXIMUS",
+      "productoEquivalente": "ACEITE HIDRÁULICO ANITDESGASTE AW ISO VG 68 ACEITE HIDRÁULICO H-300 ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 314,
+      "marca": "CATERPILLAR",
+      "productoOriginal": "ACEITE HYDO ADVANCED 10",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 10W",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 315,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "GRASA MULTIPURPOSE MOLLY",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP 2",
+      "aplicacion": "LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 316,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL VELOCITE",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "HUSILLOS"
+    },
+    {
+      "id": 317,
+      "marca": "EATON",
+      "productoOriginal": "ACEITE PS-386",
+      "productoEquivalente": "ACEITE GEAR PLUS CD700",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL, SINTÉTICO"
+    },
+    {
+      "id": 318,
+      "marca": "CASTROL",
+      "productoOriginal": "ACEITE TRANSYND 668",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 319,
+      "marca": "LUKOIL",
+      "productoOriginal": "AVANTGARDE ULTRA PLUS SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 320,
+      "marca": "HONDA",
+      "productoOriginal": "ATF DW-1",
+      "productoEquivalente": "ACEITE SÚPER ATF +",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 321,
+      "marca": "AKRON",
+      "productoOriginal": "DIESEL FUEL CONDITIONER",
+      "productoEquivalente": "ADITIVO R-27 DIÉSEL CLEAN YECTOR",
+      "aplicacion": "ADITIVO DE COMBUSTIBLE"
+    },
+    {
+      "id": 322,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON FORCE SM SAE 15W-40",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 15W-40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 323,
+      "marca": "AKRON",
+      "productoOriginal": "FUEL INJECTOR CLEANER",
+      "productoEquivalente": "ADITIVO R-27 CLEAN YECTOR",
+      "aplicacion": "ADITIVO DE COMBUSTIBLE"
+    },
+    {
+      "id": 324,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON ULTRA CLEAR CNG/LNG SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO SÚPER GAS CNG SAE 15W-40",
+      "aplicacion": "MOTOR A GAS"
+    },
+    {
+      "id": 325,
+      "marca": "AKRON",
+      "productoOriginal": "ADITIVO GAS TREATMENT",
+      "productoEquivalente": "ADITIVO R-27 GAS CLEAN",
+      "aplicacion": "ADITIVO DE COMBUSTIBLE"
+    },
+    {
+      "id": 326,
+      "marca": "AKRON",
+      "productoOriginal": "HEAVY DUTY SL SAE 40",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 327,
+      "marca": "AKRON",
+      "productoOriginal": "HEAVY DUTY SL SAE 50",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 328,
+      "marca": "AKRON",
+      "productoOriginal": "HYDRAULIC FR 46",
+      "productoEquivalente": "ACEITE BATRAK DESNOVE",
+      "aplicacion": "IGNÍFUGO"
+    },
+    {
+      "id": 329,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON MARINE",
+      "productoEquivalente": "ACEITE NAUTIC PLUS 2T NMMA TC-W3",
+      "aplicacion": "FUERA DE BORDA"
+    },
+    {
+      "id": 330,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON MOTORCYCLE 2 TIEMPOS",
+      "productoEquivalente": "ACEITE MOTONIC 2T API TC",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 331,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON OCTANE BOOSTER",
+      "productoEquivalente": "ADITIVO R-27 + OCTAN",
+      "aplicacion": "ADITIVO DE COMBUSTIBLE"
+    },
+    {
+      "id": 332,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON RESISTANCE",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 25W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 333,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON MOTORCYCLE FULL SYNTHETIC SAE 15W-50",
+      "productoEquivalente": "ACEITE MOTONIC® SINTÉTICO 4T JASO MA2/API SN SAE 10W-50",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 334,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON MOTORCYCLE SYNTHETIC BLEND SAE 10W-30 / 20W-50",
+      "productoEquivalente": "ACEITE MOTONIC® 4T JASO MA2/API SN SAE 10W-30 / SAE 20W-50",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 335,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON MARINE 4 STROKE SAE 15W-40",
+      "productoEquivalente": "ACEITE NAUTIC 4T NMMA FC-W SAE 2W-40",
+      "aplicacion": "FUERA DE BORDA"
+    },
+    {
+      "id": 336,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON ÓPTIMA PRESIÓN API CF-4 SAE 25W-60",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 25W-60",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 337,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON EXTRA FLEET CF/CF-2",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 338,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON GREEN DEF",
+      "productoEquivalente": "ROSHFRANS PURE SKY",
+      "aplicacion": "UREA AUTOMOTRIZ"
+    },
+    {
+      "id": 339,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON VEKTOR S-O GEAR",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 340,
+      "marca": "AKRON",
+      "productoOriginal": "ANTICONGELANTE/REFRIGERANTE AKRON AL 95%",
+      "productoEquivalente": "ANTICONGELANTE SÚPER CONCENTRADO",
+      "aplicacion": "ÓRGANICO, 96%"
+    },
+    {
+      "id": 341,
+      "marca": "AKRON",
+      "productoOriginal": "ANTICONGELANTE/REFRIGERANTE AKRON AL 66%",
+      "productoEquivalente": "ANTICONGELANTE CONCENTRADO",
+      "aplicacion": "ÓRGANICO, 70%"
+    },
+    {
+      "id": 342,
+      "marca": "AKRON",
+      "productoOriginal": "ANTICONGELANTE/REFRIGERANTE AKRON AL 33%",
+      "productoEquivalente": "REFRIGERANTE CLIMATIZADO",
+      "aplicacion": "ÓRGANICO, 33%"
+    },
+    {
+      "id": 343,
+      "marca": "AKRON",
+      "productoOriginal": "ANTICONGELANTE/REFRIGEANTE LONG LIFE MAX",
+      "productoEquivalente": "REFRIGERANTE FORCE NOAT",
+      "aplicacion": "HÍBIRDO, 50%"
+    },
+    {
+      "id": 344,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON CVT",
+      "productoEquivalente": "CVT FLUID",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA, CVT"
+    },
+    {
+      "id": 345,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON ATF III",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 346,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON SUPER GEAR GL-1",
+      "productoEquivalente": "ACEITE GEAR API GL-1",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 347,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON FAKTOR XT",
+      "productoEquivalente": "GRASA BAT 3",
+      "aplicacion": "BENTONA"
+    },
+    {
+      "id": 348,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON FAKTOR III",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP G",
+      "aplicacion": "LITIO, MOLIBDENO, EP, GRAFITO"
+    },
+    {
+      "id": 349,
+      "marca": "AKRON",
+      "productoOriginal": "AKRON CHASSIS MAX",
+      "productoEquivalente": "GRASA CHASIS E-LITE",
+      "aplicacion": "LITIO"
+    },
+    {
+      "id": 350,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GRAN KILOMETRAJE SL 25W-50",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 20W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 351,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL FUSIÓN SEMISINTÉTICO SP 25W-50",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 20W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 352,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL FÓRMULA-1 SINTÉTICO SQ 5W-30",
+      "productoEquivalente": "ACEITE HI-ZINTEX 100% SINTÉTICO API SQ ILSAC GF-7A SAE 5W-30",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 353,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL FUSIÓN SEMISINTÉTICO SP 20W-50",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 20W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 354,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL FÓRMULA-1 SINTÉTICO SP 5W-20",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 355,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL FUSIÓN SEMI-SINTÉTICO SP SAE 15W-40",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 15W-40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 356,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL FÓRMULA-1 SINTÉTICO SP 5W-40",
+      "productoEquivalente": "ACEITE HI-ZINTEX 100% SINTÉTICO API SQ SAE 5W-40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 357,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL SUPER RACING OIL SP SAE 10W-30",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ SAE 5W-30",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 358,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GRAN KILOMETRAJE SL 25W-60",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 359,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL HEAVY DUTY SL 40",
+      "productoEquivalente": "ACEITE HI-ENERGY APY SL SAE 40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 360,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL SÚPER DIÉSEL OIL API CK-4 SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 361,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL EURO DIÉSEL OIL SYN SAE 10W-40",
+      "productoEquivalente": "ACEITE VOLTRO EUROFLEET 3 SAE 10W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 362,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL SÚPER DIÉSEL OIL API CJ-4/SM SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 363,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL SÚPER DIÉSEL OIL API CI-4 PLUS SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 364,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL SÚPER DIÉSEL OIL MB3 API CI-4/SL SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO FORCE API CI-4/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 365,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL ATF SINTÉTICO MERCON V",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 366,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL ATF-3",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 367,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL ATF-II",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 368,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GEAR OIL API GL-5 SAE 80W-90",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 80W-90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 369,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GEAR OIL API GL-5 SAE 85W-140",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 85W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 370,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GEAR OIL API GL-1 SAE 90",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 371,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GEAR OIL API GL-1 SAE 140",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 372,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GEAR OIL API GL-1 SAE 250",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 250",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 373,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GEAR OIL FULLY SYN API GL-5 SAE 75W-90",
+      "productoEquivalente": "ACEITE GEARTECH EUROFLEET",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 374,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL GEAR OIL FULLY SYN API GL-5 SAE 80W-140",
+      "productoEquivalente": "ACEITE GEAR MAX API GL-5 SAE 80W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 375,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL MOTOTAXIS 4T JASO MA2/API SL SAE 20W-50 BARDAHL MOTOS 4T JASO MA2/API SL SAE 20W-50",
+      "productoEquivalente": "ACEITE MOTONIC 4T JASO MA2/API SN SAE 20W-50",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 376,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL SCOOTERS 4T JASO MB/API SL SAE 10W-30",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 377,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL 2 TIEMPOS JASO FB",
+      "productoEquivalente": "ACEITE MOTONIC 2T API TC",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 378,
+      "marca": "BARDAHL",
+      "productoOriginal": "BARDAHL NÁUTICO 2T TC-W3",
+      "productoEquivalente": "ACEITE NAUTIC PLUS 2T NMMA TC-W3",
+      "aplicacion": "FUERA DE BORDA"
+    },
+    {
+      "id": 379,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "GRASA MULTILITIO MOLLY EP NLGI 2",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP 2",
+      "aplicacion": "LITIO, MOLIBDENO, EP"
+    },
+    {
+      "id": 380,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "GRASA LITIO EP NLGI 2",
+      "productoEquivalente": "GRASA BALIT PLUS 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 381,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "TECNOL 100",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "GRADO TÉCNICO"
+    },
+    {
+      "id": 382,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "HIDRÁULICO DTH 300",
+      "productoEquivalente": "ACEITE HIDRÁULICO ANITDESGASTE AW ISO VG 68 ACEITE HIDRÁULICO H-300 ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 383,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "HIDRÁULICO DTH 150",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 32",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 384,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "HIDRÁULICO DTH 450",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 100",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 385,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "HIDRÁULICO DTH 220",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 46",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 386,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "FLUIDO PARA TRACTOR AGRÍCOLA BB",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 387,
+      "marca": "BARDAHL",
+      "productoOriginal": "MAXLUB EP ISO VG 150",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 150",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 388,
+      "marca": "BARDAHL",
+      "productoOriginal": "MAXLUB EP ISO VG 220",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 389,
+      "marca": "BARDAHL",
+      "productoOriginal": "MAXLUB EP ISO VG 320",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 320",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 390,
+      "marca": "BARDAHL",
+      "productoOriginal": "MAXLUB EP ISO VG 460",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 460",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 391,
+      "marca": "BARDAHL",
+      "productoOriginal": "MAXLUB EP ISO VG 680",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 680",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 392,
+      "marca": "BARDAHL",
+      "productoOriginal": "TRACTOR OIL JD/MF",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 393,
+      "marca": "BARDAHL",
+      "productoOriginal": "TURBINE OIL ISO VG 32",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 32",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 394,
+      "marca": "BARDAHL",
+      "productoOriginal": "TURBINE OIL ISO VG 46",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 395,
+      "marca": "BARDAHL",
+      "productoOriginal": "TURBINE OIL ISO VG 68",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 68",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 396,
+      "marca": "CASTROL",
+      "productoOriginal": "2TS",
+      "productoEquivalente": "ACEITE MOTONIC 2T API TC",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 397,
+      "marca": "CASTROL",
+      "productoOriginal": "ALPHA OGL",
+      "productoEquivalente": "GRASA BATRAK LUBNY",
+      "aplicacion": "ASFÁLTICA"
+    },
+    {
+      "id": 398,
+      "marca": "CASTROL",
+      "productoOriginal": "ALPHA SP 100",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 100",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 399,
+      "marca": "CASTROL",
+      "productoOriginal": "ALPHA SP 150",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 150",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 400,
+      "marca": "CASTROL",
+      "productoOriginal": "ALPHA SP 220",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 401,
+      "marca": "CASTROL",
+      "productoOriginal": "ALPHA SP 320",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 320",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 402,
+      "marca": "CASTROL",
+      "productoOriginal": "ALPHA SP 460",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 460",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 403,
+      "marca": "CASTROL",
+      "productoOriginal": "ALPHA SP 68",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 68",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 404,
+      "marca": "CASTROL",
+      "productoOriginal": "ALPHA SP 680",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 680",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 405,
+      "marca": "CASTROL",
+      "productoOriginal": "ATF + 3",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 406,
+      "marca": "CASTROL",
+      "productoOriginal": "CRD TURBO SAE 40",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 407,
+      "marca": "CASTROL",
+      "productoOriginal": "CRD TURBO SAE 50",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 408,
+      "marca": "CASTROL",
+      "productoOriginal": "DEXRON III / MERCON",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 409,
+      "marca": "CASTROL",
+      "productoOriginal": "EPX SAE 80W-90",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 80W-90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 410,
+      "marca": "CASTROL",
+      "productoOriginal": "EPX SAE 85W-140",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 85W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 411,
+      "marca": "CASTROL",
+      "productoOriginal": "GEAR OIL SAE 140",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 412,
+      "marca": "CASTROL",
+      "productoOriginal": "GEAR OIL SAE 90",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 413,
+      "marca": "CASTROL",
+      "productoOriginal": "GT LMA",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULIOS DOT-4 (LF-4)",
+      "aplicacion": "LÍQUIDO PARA FRENOS"
+    },
+    {
+      "id": 414,
+      "marca": "CASTROL",
+      "productoOriginal": "GTX 4X 15W-40",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 15W-40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 415,
+      "marca": "CASTROL",
+      "productoOriginal": "GTX 4X 20W-50",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 20W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 416,
+      "marca": "CASTROL",
+      "productoOriginal": "GTX ALTO KILOMETRAJE",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 417,
+      "marca": "CASTROL",
+      "productoOriginal": "GTX MAGNATEC",
+      "productoEquivalente": "LÍNEA HI-FLUX SEM-SINTÉTICO API SQ",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 418,
+      "marca": "CASTROL",
+      "productoOriginal": "HD SAE 40",
+      "productoEquivalente": "ACEITE HI-ENERGY APY SL SAE 40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 419,
+      "marca": "CASTROL",
+      "productoOriginal": "HYDRA SAFE STANDARD 200",
+      "productoEquivalente": "ACEITE BATRAK DESNOVE",
+      "aplicacion": "IGNÍFUGO"
+    },
+    {
+      "id": 420,
+      "marca": "CASTROL",
+      "productoOriginal": "HYPOY C",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 80W-90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 421,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN AW 100",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 100",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 422,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN AW 150",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 150",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 423,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN AW 22",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 22",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 424,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN AW 32",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 32",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 425,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN AW 46",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 46",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 426,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN AW 68",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 427,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN R&O 100",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 100",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 428,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN R&O 150",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 150",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 429,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN R&O 220",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 220",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 430,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN R&O 32",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 32",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 431,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN R&O 46",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 432,
+      "marca": "CASTROL",
+      "productoOriginal": "HYSPIN R&O 68",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 68",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 433,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY 2115",
+      "productoEquivalente": "GRASA BATRAK ROHAN SYNTEX",
+      "aplicacion": "SILICÓN"
+    },
+    {
+      "id": 434,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY 4086 2",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 435,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY 6780",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP",
+      "aplicacion": "LITIO, MOLIBDENO, EP"
+    },
+    {
+      "id": 436,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY 777 ES 1",
+      "productoEquivalente": "GRASA BATRAK BALTA 1",
+      "aplicacion": "LITIO SIMPLE"
+    },
+    {
+      "id": 437,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY 777 ES 2",
+      "productoEquivalente": "GRASA BATRAK BALTA 2",
+      "aplicacion": "LITIO SIMPLE"
+    },
+    {
+      "id": 438,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY 860/150 2",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 439,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY BRB 572",
+      "productoEquivalente": "GRASA BATRAK BALTA EP 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 440,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY GEAR OIL 140",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 460",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 441,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY GEAR OIL 190",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 680",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 442,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY GEAR OIL 300S",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 1000",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 443,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY GEAR OIL 690",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 320",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 444,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY GEAR OIL 80",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 100",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 445,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY GEAR OIL 804",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 68",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 446,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY GEAR OIL 814",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 150",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 447,
+      "marca": "CASTROL",
+      "productoOriginal": "MOLUB-ALLOY GEAR OIL 90",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 448,
+      "marca": "CASTROL",
+      "productoOriginal": "MP GREASE",
+      "productoEquivalente": "GRASA BATRAK BALTA EP 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 449,
+      "marca": "CASTROL",
+      "productoOriginal": "SPHEEROL EPL 0",
+      "productoEquivalente": "GRASA BATRAK BALTA EP 0",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 450,
+      "marca": "CASTROL",
+      "productoOriginal": "SPHEEROL EPL 1",
+      "productoEquivalente": "GRASA BATRAK BALTA EP 1",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 451,
+      "marca": "CASTROL",
+      "productoOriginal": "SPHEEROL EPL 2",
+      "productoEquivalente": "GRASA BATRAK BALTA EP 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 452,
+      "marca": "CASTROL",
+      "productoOriginal": "SYNTEC 5W-50",
+      "productoEquivalente": "ACEITE HI-ZINTEX 100% SINTÉTICO API SQ SAE 10W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 453,
+      "marca": "CASTROL",
+      "productoOriginal": "TECTION",
+      "productoEquivalente": "ACEITE VOLTRO FORCE API CI-4/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 454,
+      "marca": "CASTROL",
+      "productoOriginal": "TIRBOL 1066 WAY OIL 220",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 220",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 455,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 1066 WAY OIL 68",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 68",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 456,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 1100/100",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 100",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 457,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 1100/150",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 150",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 458,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 1100/220",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 220",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 459,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 1100/320",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 320",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 460,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 1100/460",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 460",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 461,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 1100/68",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 68",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 462,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 1100/680",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 680",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 463,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 4020 2",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 464,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 943AW 100",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 100",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 465,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 943AW 22",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 22",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 466,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 943AW 32",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 32",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 467,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 943AW 46",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 46",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 468,
+      "marca": "CASTROL",
+      "productoOriginal": "TRIBOL 943AW 68",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 469,
+      "marca": "CASTROL",
+      "productoOriginal": "RX VISCUS",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 25W-60",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 470,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE SYNTHETIC TECHNOLOGY MOTOR OIL",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ (5W-30)",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 471,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE SYNBLEND MOTOR OIL",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ (10W-30)",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 472,
+      "marca": "CHEVRON",
+      "productoOriginal": "SUPREME SYNTHETIC BLEND MOTOR OIL",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ (10W-30)",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 473,
+      "marca": "CHEVRON",
+      "productoOriginal": "SUPREME MOTOR OIL",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ // ACEITE HI-ENERGY API SL (40)",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 474,
+      "marca": "CHEVRON",
+      "productoOriginal": "CHEVRON SUPREME ALTO KILOMETRAJE",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 25W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 475,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE 2-CYCLE ENGINE OIL",
+      "productoEquivalente": "ACEITE NAUTIC 2T NMMA TC-W3",
+      "aplicacion": "FUERA DE BORDA"
+    },
+    {
+      "id": 476,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE FULL SYNTHETIC MOTORCYCLE OIL 4T JASO MA2 SAE 10W-50",
+      "productoEquivalente": "ACEITE MOTONIC SINTÉTICO 4T JASO MA2/API SN SAE 10W-50",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 477,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE MOTORCYCLE OIL 2T JASO FB API TC",
+      "productoEquivalente": "ACEITE MOTONIC 2T API TC",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 478,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE SYNTHETIC TECHNOLOGY MOTORCYCLE OIL 4T JASO MA2 SAE 10W-40",
+      "productoEquivalente": "ACEITE MOTONIC SEMISINTÉTICO 4T JASO MA2/API SN SAE 10W-40",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 479,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE MOTORCYCLE OIL 4T JASO MA2 API SL SAE 10W-30",
+      "productoEquivalente": "ACEITE MOTONIC 4T JASO MA2/API SN SAE 10W-30",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 480,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE FULL SYNTHETIC CVT FLUID",
+      "productoEquivalente": "CVT FLUID",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA, CVT"
+    },
+    {
+      "id": 481,
+      "marca": "CHEVRON",
+      "productoOriginal": "HAVOLINE FULL SYNTHETIC MULTI-VEHICLE ATF",
+      "productoEquivalente": "ACEITE SÚPER ATF +",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 482,
+      "marca": "CHEVRON",
+      "productoOriginal": "URSA HD",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 483,
+      "marca": "CHEVRON",
+      "productoOriginal": "URSA HD AK",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 25W-60",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 484,
+      "marca": "CHEVRON",
+      "productoOriginal": "URSA PREMIUM TDX",
+      "productoEquivalente": "ACEITE VOLTRO FORCE API CI-4/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 485,
+      "marca": "CHEVRON",
+      "productoOriginal": "URSA SUPER PLUS EC 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 486,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO 400 XSP SAE 5W-40",
+      "productoEquivalente": "ACEITE VOLTRO AMERICANFLEET",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 487,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO GOLD ULTRA",
+      "productoEquivalente": "ACEITE VOLTRO FORCE API CI-4/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 488,
+      "marca": "CHEVRON",
+      "productoOriginal": "HDAX 6500 LFG GAS ENGINE OIL",
+      "productoEquivalente": "ACEITE BATRAK KHOPIL SAE 40",
+      "aplicacion": "MOTOR A GAS"
+    },
+    {
+      "id": 489,
+      "marca": "CHEVRON",
+      "productoOriginal": "CHEVRON 1000 THF",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 490,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO SYN-GEAR XDM 75W-90",
+      "productoEquivalente": "ACEITE GEARTECH EUROFLEET",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 491,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO GEAR ESI 80W-90",
+      "productoEquivalente": "ACEITE VOLTRO SUPER GEAR API GL-5 SAE 80W-90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 492,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO ELC",
+      "productoEquivalente": "REFRIGERANTE COOLANT FORCE NOAT",
+      "aplicacion": "HÍBIRDO, 50%"
+    },
+    {
+      "id": 493,
+      "marca": "CHEVRON",
+      "productoOriginal": "DELO XLC",
+      "productoEquivalente": "REFRIGERANTE COOLANT DIÉSEL LONG LIFE",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 494,
+      "marca": "CHEVRON",
+      "productoOriginal": "DRIVE TRAIN FLUID HD 10W",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 10W",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 495,
+      "marca": "CHEVRON",
+      "productoOriginal": "DRIVE TRAIN FLUID HD 30",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 30",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 496,
+      "marca": "CHEVRON",
+      "productoOriginal": "DRIVE TRAIN FLUID HD 50",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 50",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 497,
+      "marca": "CHEVRON",
+      "productoOriginal": "CHEVRON HYDRAULIC OILS AW 32",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 32",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 498,
+      "marca": "CHEVRON",
+      "productoOriginal": "CHEVRON HYDRAULIC OILS AW 46",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 46",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 499,
+      "marca": "CHEVRON",
+      "productoOriginal": "CHEVRON HYDRAULIC OILS AW 68",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 500,
+      "marca": "CHEVRON",
+      "productoOriginal": "WAY OIL VISTAC ISO VG 68",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 68",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 501,
+      "marca": "CHEVRON",
+      "productoOriginal": "WAY OIL VISTAC ISO VG 220",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 220",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 502,
+      "marca": "TOTAL",
+      "productoOriginal": "QUARTZ 9000 SAE 5W-40",
+      "productoEquivalente": "ACEITE RUN-PWR DSL 100% SINTÉTICO SAE 5W-40",
+      "aplicacion": "DIÉSEL SERVICIO LIGERO"
+    },
+    {
+      "id": 503,
+      "marca": "TOTAL",
+      "productoOriginal": "QUARTZ 5000 FUTURE XT",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ ILSAC GF-7A SAE 10W-30",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 504,
+      "marca": "TOTAL",
+      "productoOriginal": "QUARTZ 5000 SAE 15W-40",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 15W-40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 505,
+      "marca": "TOTAL",
+      "productoOriginal": "QUARTZ 5000 SAE 20W-50",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 20W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 506,
+      "marca": "TOTAL",
+      "productoOriginal": "ELF MOTO 4 TECH 10W-50",
+      "productoEquivalente": "ACEITE MOTONIC SINTÉTICO 4T JASO MA2/API SN SAE 10W-50",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 507,
+      "marca": "TOTAL",
+      "productoOriginal": "ELF MOTO 4 CRUISE 20W-50",
+      "productoEquivalente": "ACEITE MOTONIC 4T JASO MA2/API SN SAE 20W-50",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 508,
+      "marca": "TOTAL",
+      "productoOriginal": "ELF MOT 2T GOLD",
+      "productoEquivalente": "ACEITE MOTONIC 2T API TC",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 509,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA ÓPTIMA",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 510,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA TIR",
+      "productoEquivalente": "ACEITE SEMISINTÉTICO VOLTRO DIÉSEL MD API CK-4 SAE 10W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 511,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA TIR 7800",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 512,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA TIR 7400",
+      "productoEquivalente": "ACEITE VOLTRO FORCE API CI-4/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 513,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA ALTO KILOMETRAJE",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 25W-60",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 514,
+      "marca": "TOTAL",
+      "productoOriginal": "GRASA MULTIS 2",
+      "productoEquivalente": "GRASA BALIT PLUS 2",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 515,
+      "marca": "TOTAL",
+      "productoOriginal": "GRASA MULTIS EP 2",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "LITIO-CALCIO, EP"
+    },
+    {
+      "id": 516,
+      "marca": "TOTAL",
+      "productoOriginal": "COOLELF SI-OAT",
+      "productoEquivalente": "REFRIGERANTE COOLANT DIESEL LONG LIFE",
+      "aplicacion": "ORGÁNICO, 50/50"
+    },
+    {
+      "id": 517,
+      "marca": "TOTAL",
+      "productoOriginal": "NEVASTANE 2+",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "GRADO ALIMENTICIO"
+    },
+    {
+      "id": 518,
+      "marca": "TOTAL",
+      "productoOriginal": "ALTIS EM 2",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "POLIUREA"
+    },
+    {
+      "id": 519,
+      "marca": "TOTAL",
+      "productoOriginal": "CARTER SH",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO (PAO)"
+    },
+    {
+      "id": 520,
+      "marca": "TOTAL",
+      "productoOriginal": "GRASA CERAN AD PLUS",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "SULFONATO DE COMPLEJO DE CALCIO, EP"
+    },
+    {
+      "id": 521,
+      "marca": "TOTAL",
+      "productoOriginal": "GRASA CERAN EP",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "SULFONATO DE CALCIO, EP, ADITIVOS SÓLIDOS"
+    },
+    {
+      "id": 522,
+      "marca": "TOTAL",
+      "productoOriginal": "GRASA CERAN MS",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "SULFONATO DE CALCIO COMPLEJO, EP, MOLIBDENO"
+    },
+    {
+      "id": 523,
+      "marca": "TOTAL",
+      "productoOriginal": "GRASA OGL",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "COMPLEJO DE ALUMINIO, EP"
+    },
+    {
+      "id": 524,
+      "marca": "TOTAL",
+      "productoOriginal": "DACNIS",
+      "productoEquivalente": "ACEITE BATRAK KOROB",
+      "aplicacion": "COMPRESOR DE AIRE"
+    },
+    {
+      "id": 525,
+      "marca": "TOTAL",
+      "productoOriginal": "GRASA MULTIS COMPLEX HV 2 MOLY",
+      "productoEquivalente": "GRASA BATRAK OLYKA MOLY EP",
+      "aplicacion": "COMPLEJO DE LITIO, EP, MOLIBDENO"
+    },
+    {
+      "id": 526,
+      "marca": "TOTAL",
+      "productoOriginal": "CORTIS MS",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "ACEITE HIDRÁULICO SIN CENIZAS"
+    },
+    {
+      "id": 527,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA SX 50",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 528,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA WORKS 4000 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 529,
+      "marca": "TOTAL",
+      "productoOriginal": "DYNATRANS ACX 10W",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 10W",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 530,
+      "marca": "TOTAL",
+      "productoOriginal": "DYNATRANS ACX 30",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 30",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 531,
+      "marca": "TOTAL",
+      "productoOriginal": "DYNATRANS ACX 50",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 50",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 532,
+      "marca": "TOTAL",
+      "productoOriginal": "TRANSELF NFJ 75W-80",
+      "productoEquivalente": "ACEITE GEAR OIL EUROFLEET SAE 75W-80",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL, SINTÉTICO"
+    },
+    {
+      "id": 533,
+      "marca": "TOTAL",
+      "productoOriginal": "TOTAL ADBLUE",
+      "productoEquivalente": "ROSHFRANS PURE SKY",
+      "aplicacion": "UREA AUTOMOTRIZ"
+    },
+    {
+      "id": 534,
+      "marca": "TOTAL",
+      "productoOriginal": "CARTER SY",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "ENGRANES INDUSTRIALES, SINTÉTICO, (PAG)"
+    },
+    {
+      "id": 535,
+      "marca": "TOTAL",
+      "productoOriginal": "MULTIS COMPLEX SHD 220",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "COMPLEJO DE LITIO, SINTÉTICA"
+    },
+    {
+      "id": 536,
+      "marca": "TOTAL",
+      "productoOriginal": "FLUIDEMATIC SYN",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 537,
+      "marca": "TOTAL",
+      "productoOriginal": "DYNATRANS MPX",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 538,
+      "marca": "TOTAL",
+      "productoOriginal": "QUARTZ 7000 FUTURE XT 10W-30",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ ILSAC GF-7A SAE 10W-30",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 539,
+      "marca": "TOTAL",
+      "productoOriginal": "TRANSTEC 5 85W-140",
+      "productoEquivalente": "ACEITE GEAR MAX API GL-5 SAE 80W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 540,
+      "marca": "TOTAL",
+      "productoOriginal": "TRANSTEC 5 80W-90",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 80W-90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 541,
+      "marca": "TOTAL",
+      "productoOriginal": "FLUIDMATIC LV MV",
+      "productoEquivalente": "ACEITE SÚPER ATF +",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA, LV"
+    },
+    {
+      "id": 542,
+      "marca": "TOTAL",
+      "productoOriginal": "TRANSTEC 4 SAE 140",
+      "productoEquivalente": "ACEITE MULTITRANS API GL-4 SAE 140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 543,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA GAS 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO SÚPER GAS CNG SAE 15W-40",
+      "aplicacion": "MOTOR A GAS"
+    },
+    {
+      "id": 544,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA TIR 6400 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 545,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA S 10W",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 10W",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 546,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA S 30",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 30",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 547,
+      "marca": "TOTAL",
+      "productoOriginal": "RUBIA S 40",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 548,
+      "marca": "TOTAL",
+      "productoOriginal": "FLUIDE XLD FE",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 549,
+      "marca": "TOTAL",
+      "productoOriginal": "FLUIDE G3",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 550,
+      "marca": "TOTAL",
+      "productoOriginal": "TRANSMISSION XI 75W-90",
+      "productoEquivalente": "ACEITE GEARTECH EUROFLEET",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL, SINTÉTICO"
+    },
+    {
+      "id": 551,
+      "marca": "TOTAL",
+      "productoOriginal": "TRANSMISSION XI 75W-80",
+      "productoEquivalente": "ACEITE GEAROIL EUROFLEET",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL, SINTÉTICO"
+    },
+    {
+      "id": 552,
+      "marca": "TOTAL",
+      "productoOriginal": "TRANSMISSION RS FE 80W-140",
+      "productoEquivalente": "ACEITE GEAR MAX API GL-5 SAE 80W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL, SINTÉTICO"
+    },
+    {
+      "id": 553,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "SPARTAN EP",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 554,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "AROX EP",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 555,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "BEACON EP",
+      "productoEquivalente": "GRASA BATRAK BALTA EP",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 556,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "CALORIA HT 43",
+      "productoEquivalente": "ACEITE BATRAK SOLCOV PREMIUM",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 557,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "DIOL 13 RD 40",
+      "productoEquivalente": "ACEITE BATRAK RADOMISH G-V SAE 40",
+      "aplicacion": "FERROCARRIL"
+    },
+    {
+      "id": 558,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "EXXON XD-3 EXTRA 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 559,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "ESSOLUBE XD-3 40",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 560,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "ESSOLUBE XD-3 50",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 561,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "ESSOTRANS 10W // MOBILTRANS HD 10W",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 10W",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 562,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "ESSOTRANS 30 // MOBILTRANS HD 30",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 30",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 563,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "ESSOTRANS 50 // MOBILTRANS HD 50",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 50",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 564,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "FAXAM 32",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVE ISO VG 32",
+      "aplicacion": "A TODA PÉRDIDA"
+    },
+    {
+      "id": 565,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "FEBIS K",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 566,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "KUTWELL 40",
+      "productoEquivalente": "ACEITE BATRAK HORLIKA",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 567,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "NUTO H",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 568,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "RONEX MP",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 569,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "TORQUE FLUID 56",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 570,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "UNIREX EP 2",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 571,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "UNIREX N 2",
+      "productoEquivalente": "GRASA BATRAK OLYKA 2",
+      "aplicacion": "COMPLEJO DE LITIO"
+    },
+    {
+      "id": 572,
+      "marca": "ESSO/MOBIL",
+      "productoOriginal": "ZERICE S 68",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN ISO VG 68",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN, SINTÉTICO, DIALQUILBENCENO"
+    },
+    {
+      "id": 573,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE PARA MOTOR A DIÉSEL SAE 15W-40 API CI-4/SL",
+      "productoEquivalente": "ACEITE VOLTRO FORCE API CI-4/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 574,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE PARA MOTOR A DIÉSEL SAE 15W-40 API CI-4 PLUS/SL",
+      "productoEquivalente": "ACEITE VOLTRO + PLUS API CI-4 PLUS/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 575,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE PARA MOTOR A DIÉSEL ALTO KILOMETRAJE SAE 25W-50 API CF",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 25W-50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 576,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE PARA MOTOR A DIÉSEL SAE 15W-40 API CK-4/SN",
+      "productoEquivalente": "ACEITE VOLTRO PRO API CK-4/SN SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 577,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE PARA TRANSMISIÓN EP SAE 80W-90 API GL-4",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 578,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE TRANSMISIÓN AUTOMÁTICA DEXRON III",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 579,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE HIDRÁULICO ISO VG 68",
+      "productoEquivalente": "ACEITE HIDRÁULICO ANITDESGASTE AW ISO VG 68 ACEITE HIDRÁULICO H-300 ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 580,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE PARA DIFERENCIAL EP SAE 85W-140 API GL-5",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 85W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 581,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE SINTÉTICO PARA EJE MOTRIZ FE 75W-90",
+      "productoEquivalente": "ACEITE GEARTECH EUROFLEET",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL, SINTÉTICO"
+    },
+    {
+      "id": 582,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE SINTÉTICO PARA TRANSMISIÓN SAE 80W-140",
+      "productoEquivalente": "ACEITE GEAR MAX API GL-5 SAE 80W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL, SINTÉTICO"
+    },
+    {
+      "id": 583,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE LUBRICANTE TF386",
+      "productoEquivalente": "ACEITE GEAR PLUS CD700",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL, SINTÉTICO"
+    },
+    {
+      "id": 584,
+      "marca": "FLEETRITE",
+      "productoOriginal": "ACEITE LUBRICANTE ATF295",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 585,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "2T / TC W II",
+      "productoEquivalente": "ACEITE NAUTIC PLUS 2T NMMA TC-W3",
+      "aplicacion": "FUERA DE BORDA"
+    },
+    {
+      "id": 586,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ATF DEXRON II",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 587,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ATF DEXRON III / MERCON",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 588,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "BENTONA 2",
+      "productoEquivalente": "GRASA BATRAK BAT 2",
+      "aplicacion": "BENTONA"
+    },
+    {
+      "id": 589,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "BENTONA 3",
+      "productoEquivalente": "GRASA BAT 3",
+      "aplicacion": "BENTONA"
+    },
+    {
+      "id": 590,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CF / CF-2 SUPER SAE 40",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 591,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CF / CF-2 SUPER SAE 50",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 592,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CF-4 SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 593,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CF-4 SAE 20W-50",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 20W-50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 594,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CH-4 SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 595,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CORTACERO MP",
+      "productoEquivalente": "ACEITE BATRAK NOVE PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 596,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CORTE SERIE AB 32C",
+      "productoEquivalente": "ACEITE BATRAK NOVE LIGERO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 597,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "CORTE SERIE AM 32C",
+      "productoEquivalente": "ACEITE BATRAK NOVE MEDIANO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 598,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "DIESELMEX FERROCARRIL IV GENERACIÓN",
+      "productoEquivalente": "ACEITE BATRAK RADOMISH G-V SAE 40",
+      "aplicacion": "FERROCARRIL"
+    },
+    {
+      "id": 599,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "DUAL",
+      "productoEquivalente": "ACEITE MOTONIC 2T API TC",
+      "aplicacion": "MOTOCICLETA"
+    },
+    {
+      "id": 600,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ENGRANES COMPUESTOS",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 601,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ENGRANES GRUESO",
+      "productoEquivalente": "GRASA BATRAK LUBNY",
+      "aplicacion": "ASFÁLTICA"
+    },
+    {
+      "id": 602,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ENGRANES UNIVERSALES MP SAE 140",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 603,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ENGRANES UNIVERSALES MP SAE 80W-90",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 80W-90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DFIERENCIAL"
+    },
+    {
+      "id": 604,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ENGRANES UNIVERSALES MP SAE 85W-140",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 85W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DFIERENCIAL"
+    },
+    {
+      "id": 605,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "ENGRANES UNIVERSALES MP SAE 90",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DFIERENCIAL"
+    },
+    {
+      "id": 606,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "FIBROSA HD 3",
+      "productoEquivalente": "GRASA GRAFITADA FIBROSA CR 3",
+      "aplicacion": "MIXTO"
+    },
+    {
+      "id": 607,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "FLUIDO TRACTOR 20 C",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 608,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "HIDRÁULICO HDS // HIDRÁULICO MH",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 609,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "HUSILLOS",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "HUSILLOS"
+    },
+    {
+      "id": 610,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "LITIO EP 1, 2, 3",
+      "productoEquivalente": "GRASA BATRAK BALTA EP 1, 2, 3",
+      "aplicacion": "LITIO, EP"
+    },
+    {
+      "id": 611,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "MULTILITIO 00, 1, 2, 3",
+      "productoEquivalente": "GRASA BATRAK BALTA 00, 1, 2, 3",
+      "aplicacion": "LITIO"
+    },
+    {
+      "id": 612,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "NEUMOACEITE EP",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 613,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "TEMPLAR KR 100",
+      "productoEquivalente": "ACEITE BATRAK KHOSTU",
+      "aplicacion": "TEMPLE DE METALES"
+    },
+    {
+      "id": 614,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "TRANS TO-4 SAE 10W",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 10W",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 615,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "TRANS TO-4 SAE 30",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 30",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 616,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "TRANS TO-4 SAE 50",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 50",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 617,
+      "marca": "MOBIL",
+      "productoOriginal": "DELVAC 1240",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 618,
+      "marca": "MOBIL",
+      "productoOriginal": "DELVAC 1250",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 619,
+      "marca": "MOBIL",
+      "productoOriginal": "DELVAC 1340",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 620,
+      "marca": "MOBIL",
+      "productoOriginal": "DELVAC 1350",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 621,
+      "marca": "MOBIL",
+      "productoOriginal": "DELVAC 1640",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 622,
+      "marca": "MOBIL",
+      "productoOriginal": "DELVAC 1650",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 623,
+      "marca": "MOBIL",
+      "productoOriginal": "DTE OIL AA",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 220",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 624,
+      "marca": "MOBIL",
+      "productoOriginal": "DTE OIL BB",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 320",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 625,
+      "marca": "MOBIL",
+      "productoOriginal": "GARGOYLE ARCTIC OIL 155",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN ISO VG 32",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 626,
+      "marca": "MOBIL",
+      "productoOriginal": "GARGOYLE ARCTIC C HEAVY",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN ISO VG 46",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 627,
+      "marca": "MOBIL",
+      "productoOriginal": "GARGOYLE ARCTIC OIL 300",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN ISO VG 68",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 628,
+      "marca": "MOBIL",
+      "productoOriginal": "HYDRAULIC AW SERIES",
+      "productoEquivalente": "ACEITE BATRAK DESNA",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 629,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILARMA 522",
+      "productoEquivalente": "ACEITE BATRAK RODKY",
+      "aplicacion": "ANTIHERRUMBRANTE"
+    },
+    {
+      "id": 630,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILFLUID 424",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 631,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILMET GAMMA",
+      "productoEquivalente": "ACEITE BATRAK NOVE EXTRA PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 632,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBILTAC LL",
+      "productoEquivalente": "GRASA BATRAK LUBNY",
+      "aplicacion": "ASFÁLTICA"
+    },
+    {
+      "id": 633,
+      "marca": "MOBIL",
+      "productoOriginal": "PEGASUS 710",
+      "productoEquivalente": "ACEITE VOLTRO SÚPER GAS CNG SAE 15W-40",
+      "aplicacion": "MOTOR A GAS"
+    },
+    {
+      "id": 634,
+      "marca": "MOBIL",
+      "productoOriginal": "VACTRA NO.1",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 635,
+      "marca": "MOBIL",
+      "productoOriginal": "VACTRA NO.2",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 68",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 636,
+      "marca": "MOBIL",
+      "productoOriginal": "VACTRA NO.3",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 100",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 637,
+      "marca": "MOBIL",
+      "productoOriginal": "VACTRA NO.4",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO V 150",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 638,
+      "marca": "MOBIL",
+      "productoOriginal": "VELOCITE OIL NO.10",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 22",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 639,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ALTO KILOMETRAJE 25W-50",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 25W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 640,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "COMPUOND OIL 100",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL ISO VG 100",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 641,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "COMPRESSOR OIL",
+      "productoEquivalente": "ACEITE BATRAK KOROB",
+      "aplicacion": "COMPRESOR DE AIRE"
+    },
+    {
+      "id": 642,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "GARES HP",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 643,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "TURBO CIR R&O",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM (ISO VG 32 A 150)",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 644,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "QS TRANSFER OIL (ISO VG 46)",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 645,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "OPEN GEAR QS",
+      "productoEquivalente": "GRASA BATRAK LUBNY",
+      "aplicacion": "ASFÁLTICA"
+    },
+    {
+      "id": 646,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "CUTTING OIL 3",
+      "productoEquivalente": "ACEITE BATRAK KUTY PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 647,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "CUTTING OIL 7",
+      "productoEquivalente": "ACEITE BATRAK NOVE MEDIANO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 648,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "CUTTING OIL 8",
+      "productoEquivalente": "ACEITE BATRAK NOVE EXTRA PESADO",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 649,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "CYLINDER OIL 175-P",
+      "productoEquivalente": "ACEITE BATRAK ODESSA ISO VG 680",
+      "aplicacion": "COMPOUND"
+    },
+    {
+      "id": 650,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "CYLINDER OIL 250-M",
+      "productoEquivalente": "ACEITE BATRAK ODESSA ISO VG 1000",
+      "aplicacion": "COMPOUND"
+    },
+    {
+      "id": 651,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "DEXRON III / MERCON",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 652,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "FUEL INJECTOR CLEANER",
+      "productoEquivalente": "ADITIVO R-27 CLEAN YECTOR",
+      "aplicacion": "ADITIVO DE COMBUSTIBLE"
+    },
+    {
+      "id": 653,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "FYRQUEL",
+      "productoEquivalente": "ACEITE BATRAK DESNOVE",
+      "aplicacion": "IGNÍFUGO"
+    },
+    {
+      "id": 654,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "GOLDEN CHASSIS NLGI 2",
+      "productoEquivalente": "GRASA CHASIS E-LITE",
+      "aplicacion": "LITIO"
+    },
+    {
+      "id": 655,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "GREEN OIL SAE 140",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 656,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "GREEN OIL SAE 250",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 250",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 657,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "GREEN OIL SAE 90",
+      "productoEquivalente": "ACEITE GEAR OIL API GL-1 SAE 90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 658,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "H-300 M",
+      "productoEquivalente": "ACEITE HIDRÁULICO ANITDESGASTE AW ISO VG 68 ACEITE HIDRÁULICO H-300 ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 659,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "HD SAE 40",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 660,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "HD SAE 50",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 661,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "HD SAE 60",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 60",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 662,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "HIDRÁULICO 10",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 32",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 663,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "HIDRÁULICO 20",
+      "productoEquivalente": "ACEITE BATRAK DESNA ISO VG 68",
+      "aplicacion": "ACEITE HIDRÁULICO"
+    },
+    {
+      "id": 664,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "RACING OIL 15W-40",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 15W-40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 665,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "J.D. 303",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 666,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "LIQUIDO PARA FRENOS",
+      "productoEquivalente": "LÍQUIDO PARA FRENOS HIDRÁULICOS DOT-3 (LF-3)",
+      "aplicacion": "LÍQUIDO PARA FRENOS"
+    },
+    {
+      "id": 667,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MÁXIMA VISCOSIDAD 25W-50",
+      "productoEquivalente": "ACEITE VOLTRO MAX POWER API CH-4/SJ SAE 20W-50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 668,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MULTIPURPOSE B NLGI 3",
+      "productoEquivalente": "GRASA BAT 3",
+      "aplicacion": "BENTONA"
+    },
+    {
+      "id": 669,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MULTIPURPOSE COMPLEJO EP-2",
+      "productoEquivalente": "GRASA BALIT COMPLEX PLUS 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 670,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MULTIPURPOSE EP NLGI 1",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP 1",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 671,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MULTIPURPOSE EP NLGI 2",
+      "productoEquivalente": "GRASA BATRAK OLYKA EP 2",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    },
+    {
+      "id": 672,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MULTIPURPOSE MOLY NLGI 2",
+      "productoEquivalente": "GRASA BATRAK BALTA MOLY EP",
+      "aplicacion": "LITIO, MOLIBDENO, EP"
+    },
+    {
+      "id": 673,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MULTIPURPOSE NLGI 1",
+      "productoEquivalente": "GRASA BATRAK OLYKA 1",
+      "aplicacion": "COMPLEJO DE LITIO"
+    },
+    {
+      "id": 674,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "MULTIPURPOSE NLGI 2",
+      "productoEquivalente": "GRASA BATRAK OLYKA 2",
+      "aplicacion": "COMPLEJO DE LITIO"
+    },
+    {
+      "id": 675,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "POC OIL",
+      "productoEquivalente": "ACEITE BATRAK RODKY",
+      "aplicacion": "ANTIHERRUMBRANTE"
+    },
+    {
+      "id": 676,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "POLARIC OIL",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN ISO VG 32",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 677,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "POLARIC OIL HEAVY",
+      "productoEquivalente": "ACEITE BATRAK ROMODAN ISO VG 68",
+      "aplicacion": "COMPRESORES DE REFRIGERACIÓN"
+    },
+    {
+      "id": 678,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "PUMP OIL",
+      "productoEquivalente": "ACEITE BATRAK POLTAVE ISO VG 68",
+      "aplicacion": "BOMBAS DE VACÍO"
+    },
+    {
+      "id": 679,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "QUADROLUBE SAE 140",
+      "productoEquivalente": "ACEITE MULTITRANS API GL-4 SAE 140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 680,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "QUADROLUBE SAE 90",
+      "productoEquivalente": "ACEITE MULTITRANS API GL-4 SAE 90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 681,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "QUADROMATIC",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 682,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "QUENCHING OIL M",
+      "productoEquivalente": "ACEITE BATRAK KHOSTU ISO VG 32",
+      "aplicacion": "TEMPLE DE METALES"
+    },
+    {
+      "id": 683,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "RACING OIL 2T",
+      "productoEquivalente": "ACEITE NAUTIC 2T NMMA TC-W3",
+      "aplicacion": "FUERA DE BORDA"
+    },
+    {
+      "id": 684,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "RACING OIL MULTIGRADE SAE 20W-50",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 20W-50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 685,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "RACING OIL TURBO MULTIGRADE SAE 15W-40",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 15W-40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 686,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ROCK DRILL 330",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO ISO VG 100",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 687,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ROCK DRILL 330-E",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO ISO VG 100",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 688,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ROCK DRILL 440",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO ISO VG 150",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 689,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "ROCK DRILL 440-E",
+      "productoEquivalente": "ACEITE BATRAK HOLESKO ISO VG 150",
+      "aplicacion": "HERRAMIENTA NEUMÁTICA"
+    },
+    {
+      "id": 690,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SERIES III SAE 40",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 691,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SERIES III SAE 50",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 692,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SERIES III XT SAE 40",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 693,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SERIES III XT SAE 50",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2 SAE 50",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 694,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SOLUBLE OIL 1 M",
+      "productoEquivalente": "ACEITE BATRAK HORLIKA",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 695,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPEED OIL ISO 100",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 100",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 696,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPEED OIL ISO 150",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 150",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 697,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPEED OIL ISO 220",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 220",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 698,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPEED OIL ISO 32",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 32",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 699,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPEED OIL ISO 320",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 320",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 700,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPEED OIL ISO 46",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 701,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPEED OIL ISO 460",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 702,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPEED OIL ISO 68",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 68",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 703,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SPINDLE OIL ISO 22",
+      "productoEquivalente": "ACEITE BATRAK COPLAN ISO VG 22",
+      "aplicacion": "TEXTIL"
+    },
+    {
+      "id": 704,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "STAKER OIL 22",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 68",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 705,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "STAKER OIL 44",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 100",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 706,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "STAKER OIL QQ",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 150",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 707,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "STAKER OIL SS",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 320",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 708,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "STAKER OIL TT",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC ISO VG 220",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 709,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SUPER FAX FIBROSA NLGI 3",
+      "productoEquivalente": "GRASA GRAFITADA FIBROSA CR 3",
+      "aplicacion": "MIXTO"
+    },
+    {
+      "id": 710,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SUPER QUADROLUBE MULTIGRADO SAE 80W-90",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 80W-90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 711,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SUPER QUADROLUBE MULTIGRADO SAE 85W-140",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 85W-140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 712,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SUPER QUADROLUBE OIL SAE 140",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 140",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 713,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SUPER QUADROLUBE OIL SAE 90",
+      "productoEquivalente": "ACEITE SÚPER GEAR OIL API GL-5 SAE 90",
+      "aplicacion": "TRANSMISIÓN ESTÁNDAR Y DIFERENCIAL"
+    },
+    {
+      "id": 714,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "SUPER SERIES III MULTIGRADE SAE 15W-40",
+      "productoEquivalente": "ACEITE VOLTRO FORCE API CI-4/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 715,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "TRANSFER OIL",
+      "productoEquivalente": "ACEITE BATRAK SOLCOV PREMIUM",
+      "aplicacion": "TRANSFERENCIA DE CALOR"
+    },
+    {
+      "id": 716,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "TRANSFORMER OIL",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "DIELÉCTRICO"
+    },
+    {
+      "id": 717,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "TURBINE OIL HP 32",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 32",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 718,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "TURBINE OIL HP 46",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 46",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 719,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "TURBINE OIL HP 68",
+      "productoEquivalente": "ACEITE BATRAK KRASNE ISO VG 68",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 720,
+      "marca": "QUAKER STATE // SHELL",
+      "productoOriginal": "TURBINE OIL QQ",
+      "productoEquivalente": "ACEITE BATRAK KRASNE PREMIUM ISO VG 150",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 721,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL DIALA S4 ZX-1",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "DIELÉCTRICO"
+    },
+    {
+      "id": 722,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL GADINIA S3 40",
+      "productoEquivalente": "ACEITE GULFSEA POWER MDO 4012",
+      "aplicacion": "MARINO"
+    },
+    {
+      "id": 723,
+      "marca": "SHELL",
+      "productoOriginal": "FLEET COOLANT EXL MR",
+      "productoEquivalente": "REFRIGERANTE COOLANT FORCE NOAT",
+      "aplicacion": "HÍBIRDO, 50%"
+    },
+    {
+      "id": 724,
+      "marca": "SHELL",
+      "productoOriginal": "FLEET COOLANT",
+      "productoEquivalente": "REFRIGERANTE COOLANT DIÉSEL LONG LIFE",
+      "aplicacion": "ORGÁNICO, 50%"
+    },
+    {
+      "id": 725,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL DONAX TC SAE 10W",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 10W",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 726,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL DONAX TC SAE 30",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 30",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 727,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL DONAX TC SAE 50",
+      "productoEquivalente": "ACEITE TRANSMISIÓN CAT-ALI SAE 50",
+      "aplicacion": "EQUIPO FUERA DE CARRETERA"
+    },
+    {
+      "id": 728,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL DONAX TD",
+      "productoEquivalente": "ACEITE SÚPER TRACTOR MULTIPROPÓSITOS",
+      "aplicacion": "EQUIPO AGRÍCOLA"
+    },
+    {
+      "id": 729,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL DONAX TG",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 730,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL HELIX SAE 40",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 40",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 731,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL HELIX SAE 50",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL SAE 50",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 732,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL IRUS FLUID C",
+      "productoEquivalente": "ACEITE BATRAK DESNOVE",
+      "aplicacion": "IGNÍFUGO"
+    },
+    {
+      "id": 733,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL MORLINA",
+      "productoEquivalente": "ACEITE BATRAK KRASNE",
+      "aplicacion": "CIRCULACIÓN"
+    },
+    {
+      "id": 734,
+      "marca": "TOTAL",
+      "productoOriginal": "MULTIS EP 3",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "LITIO-CALCIO, EP"
+    },
+    {
+      "id": 735,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL RIMULA R4 15W-40 CI-4",
+      "productoEquivalente": "ACEITE VOLTRO FORCE API CI-4/SL SAE 15W-40",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 736,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL VALVATA",
+      "productoEquivalente": "ACEITE BATRAK ODESSA",
+      "aplicacion": "COMPOUND"
+    },
+    {
+      "id": 737,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL RIMULA R2 40 // 50",
+      "productoEquivalente": "ACEITE VOLTRO RAS SERIES 3 DF/DF-2",
+      "aplicacion": "MOTOR A DIÉSEL"
+    },
+    {
+      "id": 738,
+      "marca": "CHEVRON",
+      "productoOriginal": "CANOPUS",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVE",
+      "aplicacion": "A TODA PÉRDIDA"
+    },
+    {
+      "id": 739,
+      "marca": "CHEVRON",
+      "productoOriginal": "CRATER 5H",
+      "productoEquivalente": "GRASA BATRAK LUBNY",
+      "aplicacion": "ASFÁLTICA"
+    },
+    {
+      "id": 740,
+      "marca": "CHEVRON",
+      "productoOriginal": "DIESEL ENGINE OIL 13 SG",
+      "productoEquivalente": "ACEITE BATRAK RADOMISH G-V SAE 40",
+      "aplicacion": "FERROCARRIL"
+    },
+    {
+      "id": 741,
+      "marca": "CHEVRON",
+      "productoOriginal": "REGAL R&O",
+      "productoEquivalente": "ACEITE BATRAK KRASNE",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 742,
+      "marca": "CHEVRON",
+      "productoOriginal": "VANGUARD",
+      "productoEquivalente": "ACEITE BATRAK ODESSA",
+      "aplicacion": "COMPOUND"
+    },
+    {
+      "id": 743,
+      "marca": "CHEVRON",
+      "productoOriginal": "WAY LUBRICANT",
+      "productoEquivalente": "ACEITE BATRAK ZOLOVIC",
+      "aplicacion": "GUÍAS Y CORREDERAS"
+    },
+    {
+      "id": 744,
+      "marca": "SHELL",
+      "productoOriginal": "SHELL MYSELA LA OILS",
+      "productoEquivalente": "ACEITE BATRAK KHOPIL SAE 40",
+      "aplicacion": "MOTOR A GAS"
+    },
+    {
+      "id": 745,
+      "marca": "CIMCOOL",
+      "productoOriginal": "CIMTECH 95",
+      "productoEquivalente": "ACEITE BATRAK KHORLEVO SYNTHEX",
+      "aplicacion": "CORTE DE METAL"
+    },
+    {
+      "id": 746,
+      "marca": "LUKOIL",
+      "productoOriginal": "LUKOIL STEELO",
+      "productoEquivalente": "ACEITE BATRAK NHOPOL",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 747,
+      "marca": "LUKOIL",
+      "productoOriginal": "LUKOIL STEELO SYNTH",
+      "productoEquivalente": "ACEITE BATRAK RHODAR SYNTHEX",
+      "aplicacion": "ENGRANES INDUSTRIALES"
+    },
+    {
+      "id": 748,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL SUPER ANTI-FRICTION 5W-20",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 749,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL SUPER ANTI-FRICTION 5W-30",
+      "productoEquivalente": "ACEITE HI-ZYNTEX 100% SINTÉTICO API SQ",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 750,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL SUPER EXTENGINE 10W-30",
+      "productoEquivalente": "ACEITE HI-FLUX SEMI-SINTÉTICO API SQ SAE 10W-30",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 751,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL MONOGRADO",
+      "productoEquivalente": "ACEITE HI-ENERGY API SL MONOGRADO",
+      "aplicacion": "MOTOR A GASOLINA"
+    },
+    {
+      "id": 752,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL DTE 10 EXCEL ISO VG 68",
+      "productoEquivalente": "NO COTIZO",
+      "aplicacion": "NA"
+    },
+    {
+      "id": 753,
+      "marca": "TOTAL",
+      "productoOriginal": "FLUIDMATIC DIII MV",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 754,
+      "marca": "MEXICANA DE LUBRICANTES",
+      "productoOriginal": "TURBINAS",
+      "productoEquivalente": "ACEITE KRASNE",
+      "aplicacion": "TURBINAS INDUTRIALES"
+    },
+    {
+      "id": 755,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL ATF D/M",
+      "productoEquivalente": "ACEITE ATF ALLPOWER MULTIVEHÍCULOS",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 756,
+      "marca": "MOBIL",
+      "productoOriginal": "MOBIL ATF 220",
+      "productoEquivalente": "ACEITE SÚPER ATF DEX-III-MERC",
+      "aplicacion": "TRANSMISIÓN AUTOMÁTICA"
+    },
+    {
+      "id": 757,
+      "marca": "SKF",
+      "productoOriginal": "GRA-AT 3/1",
+      "productoEquivalente": "GRASA OLYKA EP 3",
+      "aplicacion": "COMPLEJO DE LITIO, EP"
+    }
+  ]
+}
